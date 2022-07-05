@@ -1,0 +1,2350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>https://kinboise.github.io/fruje/</id>
+  <title>fruje 臤徘斯的随笔博客</title>
+  <subtitle>fruje 臤徘斯的随笔博客</subtitle>
+  <author>
+    <name>Kinboise</name>
+  </author>
+  <updated>2022-07-05T14:39:57.387Z</updated>
+  <generator>@mr-hope/vuepress-plugin-feed</generator>
+  <link rel="self" href="https://kinboise.github.io/fruje/atom.xml"/>
+  <link rel="alternate" href="https://kinboise.github.io/fruje/"/>
+  <contributor>
+    <name>Kinboise</name>
+  </contributor>
+  <entry>
+    <title type="html">造语草稿：篋訥語</title>
+    <id>https://kinboise.github.io/fruje/han/cjana/</id>
+    <link href="https://kinboise.github.io/fruje/han/cjana/"/>
+    <updated>2022-07-05T14:39:57.415Z</updated>
+    <summary type="html"># 篋訥語 il-luni so-tʰiŋʱ
+對原措丁語設定不滿意，試圖給措丁文找個新主人，幾經周折找到了這個不算舊的設定。（有点Shqip味）
+</summary>
+    <content type="html"><![CDATA[<h1 id="篋訥語-il-luni-so-thiŋɦ"> 篋訥語 il-luni so-tʰiŋʱ</h1>
+<p>對原<u>措丁語</u>設定不滿意，試圖給<u>措丁文</u>找個新主人，幾經周折找到了這個不算舊的設定。（有点Shqip味）</p>
+
+<h1 id="上古語"> 上古語</h1>
+<p><u>措丁文</u>的母語，經典語言，在篋訥帝國興起以前。</p>
+<h2 id="音系"> 音系</h2>
+<h3 id="元音"> 元音</h3>
+<p>正字法反映五個元音，實際爲四個元音音位。e爲a的同位異音，互補分佈，e只出現在有前軟顎音的詞中。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>前</th>
+<th>後</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>閉</td>
+<td>i[i~ɪ]</td>
+<td>u[u~ʊ]</td>
+</tr>
+<tr>
+<td>開</td>
+<td>a[a], e[ɛ]</td>
+<td>o[ɔ]</td>
+</tr>
+</tbody>
+</table>
+<h3 id="輔音"> 輔音</h3>
+<p>送氣對立爲主。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>雙脣</th>
+<th>齒齦</th>
+<th>軟齶前</th>
+<th>軟齶後</th>
+<th>聲門</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>鼻音</td>
+<td>m mʱ</td>
+<td>n nʱ</td>
+<td>ŋ̟ ŋ̟ʱ</td>
+<td>ŋ ŋʱ</td>
+<td></td>
+</tr>
+<tr>
+<td>塞音</td>
+<td>p pʰ</td>
+<td>t tʰ</td>
+<td>k̟ k̟ʰ</td>
+<td>k kʰ</td>
+<td>ʔ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>t͡s s</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>w ɸ</td>
+<td>l ɬ</td>
+<td>j̈ x̟</td>
+<td>ɰ x</td>
+<td>h</td>
+</tr>
+<tr>
+<td></td>
+<td>ʙ ʙʰ</td>
+<td>r rʰ</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="中古語"> 中古語</h2>
+<p>該階段的</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-06-09T22:59:19.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">臤徘斯的随笔博客</title>
+    <id>https://kinboise.github.io/fruje/han/</id>
+    <link href="https://kinboise.github.io/fruje/han/"/>
+    <updated>2022-07-05T14:39:57.420Z</updated>
+    <summary type="html">臤徘斯的随笔博客 也不知写点啥，就当搭着玩了…… 自定义样式测试 就是写了点css配合插件使用，满足一些特定需求。 下划线缩短 可用于连续专名号。[xxx]{.u}由markdown-it-attrs和markdown-it-bracketed-spans插件实现。例： 先拂市海西区执鲁街道 [商弦市]{.u}[景公河东街]{.u}[上河湾路口]{.u} 无</summary>
+    <content type="html"><![CDATA[<h1 id="臤徘斯的随笔博客"> 臤徘斯的随笔博客</h1>
+<p>也不知写点啥，就当搭着玩了……</p>
+<h2 id="自定义样式测试"> 自定义样式测试</h2>
+<p>就是写了点css配合插件使用，满足一些特定需求。</p>
+<h3 id="下划线缩短"> 下划线缩短</h3>
+<p>可用于连续专名号。<code>[xxx]{.u}</code>由<code>markdown-it-attrs</code>和<code>markdown-it-bracketed-spans</code>插件实现。例：</p>
+<p><u>先拂市</u><u>海西区</u><u>执鲁街道</u></p>
+<p><span>商弦市</span><span>景公河东街</span><span>上河湾路口</span></p>
+<div><pre><code>&lt;u&gt;先拂市&lt;/u&gt;&lt;u&gt;海西区&lt;/u&gt;&lt;u&gt;执鲁街道&lt;/u&gt;
+
+[商弦市]{.u}[景公河东街]{.u}[上河湾路口]{.u}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><pre><code><span>u, em.u, .u</span> <span>{</span>
+    <span>font-style</span><span>:</span> normal<span>;</span>
+    <span>text-decoration</span><span>:</span> none<span>;</span>
+    <span>border</span><span>:</span> 0<span>;</span>
+    <span>border-bottom</span><span>:</span> 1px solid<span>;</span>
+    <span>border-image</span><span>:</span> <span>linear-gradient</span><span>(</span>currentcolor<span>,</span> currentcolor<span>)</span> 1 0 / 1 0.1em<span>;</span>
+<span>}</span>
+
+<span>em.u em</span> <span>{</span>
+    <span>font-style</span><span>:</span> italic<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><h3 id="无边框表格"> 无边框表格</h3>
+<p>去掉边框，首行加粗改为倾斜，行高调小。可用于<u>莱比锡</u>标注系统（Leipzig Glossing）。<code>markdown-it-abbr</code>插件可自动识别已定义的缩写，且自动设为小型大写；也可以使用<code>[xxx]{.ab}</code>来手动设定小型大写。例：</p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left">m-i</th>
+<th style="text-align:left">t-e</th>
+<th style="text-align:left">zes.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">I-<abbr title="Nominative case">NOM</abbr></td>
+<td style="text-align:left">you-<span>ACC</span></td>
+<td style="text-align:left">love.<abbr title="Imperfective aspect">IMPF</abbr></td>
+</tr>
+<tr>
+<td style="text-align:left" colspan="3">'I love you.' (<span>ACC</span> = accusative)</td>
+</tr>
+</tbody>
+</table>
+<div><pre><code>*[NOM]: Nominative case
+&lt;!--*[ACC]: Accusative case--&gt;
+*[IMPF]: Imperfective aspect
+
+| m-i   | t-e   | zes. |
+| :---- | :---- | :---- |
+| I-NOM | you-[ACC]{.ab} | love.IMPF |
+| &#39;I love you.&#39; ([ACC]{.ab} = accusative) |||
+
+{.g}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><div><pre><code><span>.g tr, .g td, .g th</span> <span>{</span>
+    <span>font-weight</span><span>:</span> inherit<span>;</span>
+    <span>border</span><span>:</span> none<span>;</span>
+    <span>background-color</span><span>:</span> inherit<span>;</span>
+    <span>line-height</span><span>:</span> 50%<span>;</span>
+<span>}</span>
+
+<span>.g th</span> <span>{</span>
+    <span>font-style</span><span>:</span> italic<span>;</span>
+<span>}</span>
+
+<span>abbr, .ab</span> <span>{</span>
+    <span>font-variant-caps</span><span>:</span> all-small-caps<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><h3 id="复杂表格"> 复杂表格</h3>
+<p><code>markdown-it-multimd-table</code>插件的功能：去除标题行、横向纵向合并单元格。无原创成分。</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="2">abc</td>
+<td>sag</td>
+<td>asd</td>
+</tr>
+<tr>
+<td>ss</td>
+<td>ss</td>
+</tr>
+</tbody>
+</table>
+<div><pre><code>| ---- | ---- | ---- |
+| abc  | sag  ||
+| ^^   | ss   | ss   |
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><i>Content not supported</i>]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">造语小作：成義利語</title>
+    <id>https://kinboise.github.io/fruje/han/cenqili/</id>
+    <link href="https://kinboise.github.io/fruje/han/cenqili/"/>
+    <updated>2022-07-05T14:39:57.431Z</updated>
+    <summary type="html"># 造语小作：成義利語
+高中的設定，南島味。原稿包括音系、正字法、代詞，已佚。根據記憶重寫。
+</summary>
+    <content type="html"><![CDATA[<h1 id="造语小作-成義利語"> 造语小作：成義利語</h1>
+<p>高中的設定，南島味。原稿包括音系、正字法、代詞，已佚。根據記憶重寫。
+</p>
+<h2 id="一、音系和正字法"> 一、音系和正字法</h2>
+<p>未標註者正字法同國際音標。高亮的音位鮮少出現在固有詞中。</p>
+<h3 id="輔音"> 輔音</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center">脣</th>
+<th style="text-align:center">齒齦</th>
+<th style="text-align:center">齦後/硬齶</th>
+<th style="text-align:center">軟齶/小舌</th>
+<th style="text-align:center">聲門</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>鼻音</strong></td>
+<td style="text-align:center">m</td>
+<td style="text-align:center">n</td>
+<td style="text-align:center">ɲ⟨nj⟩</td>
+<td style="text-align:center">ŋ⟨ng⟩</td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td><strong>塞音</strong></td>
+<td style="text-align:center">p b</td>
+<td style="text-align:center">t d</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">k* ɡ*</td>
+<td style="text-align:center">(ʔ)⟨k/q⟩*</td>
+</tr>
+<tr>
+<td><strong>塞擦音</strong></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">t͡͡s* d͡͡z*</td>
+<td style="text-align:center">t͡͡ʃ⟨tc⟩ d͡͡ʒ⟨dg⟩</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td><strong>擦音</strong></td>
+<td style="text-align:center"><mark>f</mark> <mark>v</mark></td>
+<td style="text-align:center">s z</td>
+<td style="text-align:center"><mark>ʃ⟨sj⟩</mark> <mark>ʒ⟨zj⟩</mark></td>
+<td style="text-align:center">χ⟨ch⟩ ʁ⟨gh⟩</td>
+<td style="text-align:center">h</td>
+</tr>
+<tr>
+<td><strong>邊音</strong></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">ɬ⟨x⟩ l</td>
+<td style="text-align:center">ʎ⟨lj⟩</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td><strong>閃/近音</strong></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">ɾ⟨r⟩</td>
+<td style="text-align:center">j</td>
+<td style="text-align:center">w</td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<p>塞音及塞擦音不送氣。</p>
+<p>/t͡ʃ, d͡ʒ, ʃ, ʒ/可能是[t͡ʃ~c, d͡ʒ~ɟ, ʃ~ɕ, ʒ~ʑ]。</p>
+<p>加'*'的音位的拼法如下：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+<th style="text-align:center">k</th>
+<th style="text-align:center">ɡ</th>
+<th style="text-align:center">t͡s</th>
+<th style="text-align:center">d͡z</th>
+<th style="text-align:center">ʔ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">非⟨i, e, y⟩前</td>
+<td style="text-align:center">c</td>
+<td style="text-align:center">g</td>
+<td style="text-align:center">ts</td>
+<td style="text-align:center">dz</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:center">⟨i, e, y⟩前</td>
+<td style="text-align:center">k</td>
+<td style="text-align:center">q</td>
+<td style="text-align:center">c</td>
+<td style="text-align:center">g</td>
+<td style="text-align:center">-</td>
+</tr>
+<tr>
+<td style="text-align:center">輔音前或詞末</td>
+<td style="text-align:center">c</td>
+<td style="text-align:center">g</td>
+<td style="text-align:center">ts</td>
+<td style="text-align:center">dz</td>
+<td style="text-align:center">k/q(見下)</td>
+</tr>
+</tbody>
+</table>
+<p>此外，/tk, dɡ/總是拼作⟨tk, dq⟩以示與/t͡ʃ d͡ʒ/的區別。</p>
+<h3 id="元音"> 元音</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center">前</th>
+<th style="text-align:center">次前</th>
+<th style="text-align:center">央</th>
+<th style="text-align:center">次後</th>
+<th style="text-align:center">後</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>閉</strong></td>
+<td style="text-align:center">i⟨y⟩</td>
+<td style="text-align:center">ɪ⟨i⟩</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">ʊ⟨o⟩</td>
+<td style="text-align:center">u⟨u⟩</td>
+</tr>
+<tr>
+<td><strong>中</strong></td>
+<td style="text-align:center"><mark>ɛ⟨è⟩</mark></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">ə⟨e⟩</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"><mark>ɔ⟨ò⟩</mark></td>
+</tr>
+<tr>
+<td><strong>開</strong></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">a⟨a⟩</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<p>/ə/不會出現在重讀音節及其後。</p>
+<p>/a/在重讀音節後音值爲[ɐ]。有的語言學家將[ɐ]分析爲/ə/而非/a/的變體。</p>
+<p>⟨è, ò⟩上的抑音符常常省去。</p>
+<h3 id="重音、聲調"> 重音、聲調</h3>
+<p>成義利語每個單詞有一個重讀音節，正字法中一般不標識，必要時用銳音符⟨ˊ⟩標識。</p>
+<p>音節可以有兩個聲調：高、低；音節可分爲帶喉塞尾/ʔ/和不帶喉塞尾兩種。帶喉塞尾的音節的聲調有音位性，不帶喉塞尾的音節則沒有。</p>
+<p>對無帶喉塞尾音節的單詞，重讀音節及以前爲高調，重讀音節以後爲低調。有喉塞尾的音節的聲調則是固定的，不受位置影響；正字法中⟨-k⟩表示高調帶喉塞尾，⟨-q⟩表示低調帶喉塞尾。</p>
+<p>如今較新的口音中不區別是否重音，僅區別聲調。</p>
+<hr>
+<p>以下是一些示例：</p>
+<table>
+<thead>
+<tr>
+<th>拼寫</th>
+<th>音位</th>
+<th>音值</th>
+<th>詞義</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>secalah</td>
+<td>/səˈkaləh/</td>
+<td>[sə́.ˈká.lɐ̀h]</td>
+<td>歌曲</td>
+</tr>
+<tr>
+<td>miqtik</td>
+<td>/ˈmɪ̀ʔtɪʔ/</td>
+<td>[ˈmɪ̀ʔ.tɪ́ʔ]</td>
+<td>喫</td>
+</tr>
+<tr>
+<td>dangsah</td>
+<td>/ˈdaŋsəh/</td>
+<td>[ˈdáŋ.sɐ̀h]</td>
+<td>飯</td>
+</tr>
+<tr>
+<td>roghu</td>
+<td>/ɾʊˈʁu/</td>
+<td>[ɾʊ́ˈʁú]</td>
+<td>杯子</td>
+</tr>
+<tr>
+<td>keqros</td>
+<td>/kə̀ʔˈɾʊs/</td>
+<td>[kə̀ʔ.ɾʊ́s]</td>
+<td>氣</td>
+</tr>
+<tr>
+<td>creacion(crèatsjôn)</td>
+<td>/kɾɛ.aˈt͡sjɔn/</td>
+<td>[kɾɛ̀.ʔà.ˈt͡sjɔ́n]~[kɾɪ̀.ʔà.ˈt͡sjɔ́n]</td>
+<td>創造</td>
+</tr>
+<tr>
+<td>kybòd</td>
+<td>/ˈkibɔd/</td>
+<td>[ˈkí.bɔ̀d]~[ˈkí.bʊ̀t]</td>
+<td>鍵盤</td>
+</tr>
+</tbody>
+</table>
+<h2 id="二、詞法"> 二、詞法</h2>
+<h3 id="代詞"> 代詞</h3>
+<p>成義利語有助詞型代詞（主要爲固有來源）和名詞型代詞（主要爲借詞）。</p>
+<table>
+<thead>
+<tr>
+<th>名詞</th>
+<th>一</th>
+<th>謙</th>
+<th>兼</th>
+<th>二</th>
+<th>敬</th>
+<th>三</th>
+<th>敬</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>單數</td>
+<td>cawa</td>
+<td>lepang</td>
+<td></td>
+<td>sewy</td>
+<td>sjuro/asjuro</td>
+<td>gong</td>
+<td>duci</td>
+</tr>
+<tr>
+<td>複數</td>
+<td>njing/anjing</td>
+<td>kecol</td>
+<td>jadak</td>
+<td>seming</td>
+<td>asjuro</td>
+<td>bojak</td>
+<td>aduci</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>助詞</th>
+<th>一</th>
+<th>兼</th>
+<th>二</th>
+<th>三</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>單數</td>
+<td>cho</td>
+<td></td>
+<td>no</td>
+<td>gi</td>
+</tr>
+<tr>
+<td>複數</td>
+<td>cha</td>
+<td>do</td>
+<td>xu</td>
+<td>lja</td>
+</tr>
+</tbody>
+</table>
+<h3 id="名詞"> 名詞</h3>
+<p>名詞沒有性、格的變化。數通常藉由代詞體現。部分名詞有複數形式，多由音節重疊形成。如：</p>
+<table>
+<thead>
+<tr>
+<th>單數</th>
+<th>複數</th>
+<th>釋義</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>bat</td>
+<td>bebat</td>
+<td>天，日</td>
+</tr>
+<tr>
+<td>agong(&lt;gong)</td>
+<td>gonggong</td>
+<td>人</td>
+</tr>
+<tr>
+<td>pin</td>
+<td>pimbin</td>
+<td>門</td>
+</tr>
+<tr>
+<td>ketiwing</td>
+<td>tcetiwing(&lt;ketcetiwing)</td>
+<td>藥</td>
+</tr>
+<tr>
+<td>peqryc</td>
+<td>ljoryc</td>
+<td>山</td>
+</tr>
+</tbody>
+</table>
+<h3 id="動詞"> 動詞</h3>
+<p>動詞沒有變位。</p>
+<h2 id="四、句法"> 四、句法</h2>
+<h3 id="語序"> 語序</h3>
+<p>成義利語的底層語序是VSO。</p>
+<table>
+<thead>
+<tr>
+<th>Miqtik</th>
+<th>cho</th>
+<th>dangsah.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>喫</td>
+<td>1sg</td>
+<td>飯</td>
+</tr>
+</tbody>
+</table>
+<p><em>我喫飯。</em></p>
+<p>但由於只有助詞型代詞可以占據主語S的位置，且採用主題優先語序，因此實際句子呈現SVO。</p>
+<table>
+<thead>
+<tr>
+<th>Gutaf</th>
+<th>senjat</th>
+<th>lja</th>
+<th>mygih.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>狗</td>
+<td>被追</td>
+<td>3pl</td>
+<td>貓</td>
+</tr>
+</tbody>
+</table>
+<p><em>狗（複數）被貓追。</em></p>
+<p>助詞型代詞可以和名詞重疊。</p>
+<table>
+<thead>
+<tr>
+<th>Mygih</th>
+<th>njonjat</th>
+<th>gi</th>
+<th>lja</th>
+<th>gutaf.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>貓</td>
+<td>追</td>
+<td>3sg</td>
+<td>3pl</td>
+<td>狗</td>
+</tr>
+</tbody>
+</table>
+<p><em>貓追狗（複數）。</em></p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">双语文章：走进先拂</title>
+    <id>https://kinboise.github.io/fruje/han/fhsp/</id>
+    <link href="https://kinboise.github.io/fruje/han/fhsp/"/>
+    <updated>2022-07-05T14:39:57.437Z</updated>
+    <summary type="html"># fu hu Seon Phourl 走进先拂
+去独立页面阅读
+nosike: nes! baten gi sor, jehipar! ku suri &amp;quot;fu hu Seon Phourl&amp;quot;. mi toco-nosike Flivina Karanov. novo-hovike Culano Stelinic vo he tin e safa u Xef tos. novo-hovike.
+主持人 ：观众朋友们好，欢迎收看《走进先拂》，我是本节目的主持人夫里维那・卡拉诺夫。本台记者楚拉诺・斯忒里尼奇将带大家了解一下先拂居民的生活状况。记者。
+</summary>
+    <content type="html"><![CDATA[<h1 id="fu-hu-seon-phourl-走进先拂"> fu hu Seon Phourl 走进先拂</h1>
+<p><a href="https://kinboise.github.io/Xef/fhSP2020.html" target="_blank" rel="noopener noreferrer">去独立页面阅读<i>Content not supported</i></a></p>
+<p>nosike: nes! baten gi sor, jehipar! ku suri &quot;fu hu Seon Phourl&quot;. mi toco-nosike Flivina Karanov. novo-hovike Culano Stelinic vo he tin e safa u Xef tos. novo-hovike.
+主持人 ：观众朋友们好，欢迎收看《走进先拂》，我是本节目的主持人<u>夫里维那・卡拉诺夫</u>。本台记者<u>楚拉诺・斯忒里尼奇</u>将带大家了解一下<u>先拂</u>居民的生活状况。记者。
+</p>
+<p>novo-hovike: nes! baten gi sor. syta min hov en gi dum u Jehisade:zeveco Mesirave:domovume Fofumorice:domove. nes!, he e safa ta lase mun haf.
+记者：观众朋友们好！今天我们的受访者是<u>康今区</u> <u>怀圆街道</u> <u>湖北社区</u>的居民。给我们讲讲您的日常吧！</p>
+<p>V'P'(Verodano Pasanisin): Mesirave zevica padila cura, ja posadu e domovume he di tur, mo behu min de haf ru &quot;zevica u momlova&quot;. u hafirese ki vu ploda devila e boribule zod natuc.
+V'P'（<u>韦洛达诺・帕萨尼辛</u>）：我们<u>怀圆镇</u>是个古朴祥和的小镇，最近刚刚改成<u>怀圆街道</u>，不过我们还是亲切地叫他「沙漠之城」。传说城中那座神圣的花园里藏着宝藏。</p>
+<p><img src="https://i.loli.net/2021/05/19/iO8wDt5WzQqA7Gj.jpg" alt="img" title="dalisuri bu momlizevumo | 沙都远望" loading="lazy"></p>
+<p>nosike: de zevica zug i Engunm fu pemi Jyenjyen(Ravina) kate gi po humer o la. du kubit i zevizi a Xef.
+主持人：这里是Engunm为了纪念去世的猫<u>圆圆</u>而修建的，是<u>先拂</u>城镇化的开端。</p>
+<p><img src="https://i.loli.net/2021/05/19/O83pDkCfieobHdu.jpg" alt="img" title="telitoce a Jyenjyen | 圆圆雕塑" loading="lazy"></p>
+<p>novo-hovike: co dale gu ti lase red.?
+记者：您上班的地方远不远啊？</p>
+<p>V'P': mi u blanone u Bulizevumo a mice-lubo a Seon Phourl red. visu lado ve fupit zupit ru bavgifejo, zo Napasasmrig:puto kanu gob!.
+V'P'：我在<u>先拂银行贵都总行</u>工作，每天都坐矿铁上下班，因为早晚高峰的<u>影瑟路</u>太堵了！</p>
+<p><img src="https://i.loli.net/2021/05/19/sumAbqwR2f6Dk7i.jpg" alt="img" title="Napasasmrig:puto gob (dufe) | 影瑟路摆拍" loading="lazy"></p>
+<p>18:putihaca veru benle. kif le lente ranu, lilisumu basidajilakoda a porken e vopumi bore po par, jo vog i mekizi a 18:haca, tid e bavgikihan u porken jese!. Ajaq!, lin porke gomoni meke ku kabalen.
+矿铁18号线真心方便。以前总嫌他慢，最近猪的遗传育种有了大突破，18号线提速改造，把矿车改成了特种猪！好家伙，那猪跑得比马还快几倍呢！</p>
+<p><img src="https://i.loli.net/2021/05/19/X421P9D3zVmtCol.jpg" alt="img" title="focone Bumibise a porkifejo | 土画猪铁站" loading="lazy"></p>
+<p>calipuna kasu radi a calo, baradike novinuze vol piti fu Positapto:kagone fe Latipopite:spajone. mo mi ju vol lipi u hodidonbe u cafone Venipota, sor ke nito fu fofe lentu guk, hu gikinito zu pife pale a Lutebena:miconume posa kubit; in lubove vike zi derove, more nutuce u pojone lan. nebo tur came, u Bulizevumokoke:putumo putiposon pos, ja mi u focone Venipota pit, fu domo. ranu mi fin fu gora-lubo a Morikoke:zeveco, mo sadu mogired, kare ki nu fu vu pit.
+周五下午下班后，结束了一周的工作，我那些年轻的同事总喜欢去灯塔餐厅或者<u>翔达竞技场</u>甚么的。而我最喜欢站在<u>邯郸路口</u>的天桥上，看太阳缓缓地向北方落下，<u>亚羽商场</u>的玻璃表面在夕阳下熠熠生辉；高楼林立，在高楼的尽头隐约能看到大海。天黑下去，<u>贵都西大街</u>上路灯亮起，再像平时一样进入<u>邯郸站</u>坐车回家。以前还会去<u>海西区图书馆</u>坐坐，现在工作忙，已经很久没去了。</p>
+<p><img src="https://i.loli.net/2021/05/19/WBQgdaFMqoEVJyp.jpg" alt="img" title="u hodidonbe u Venipota | 邯郸天桥上" loading="lazy"></p>
+<p>nosike: u sade i Morikoke:zeveco Bulizevumo:domovume vine jun poje a Xef, ge kubit zugi zu 2019:nuzo 11:jono, ge mogu zog ru 2020:nuzo 1 so 2:jono; ja ru selizoda a toce loze a zevo u 10:jono, li ju nove luse lepe. soco jena u zevo sadiveka, veka Bulizevumo e ju novizi moge po sur: puto jena, donbe jena, putivizba jena, pitoviposo jena…… ni kane ki veka Bulizevumo he mise bu zugi Xef po tur.
+主持人：<u>海西区</u> <u>贵都街道</u>是<u>先拂</u>目前最成熟的建成区了，开工于2019年11月，集中建设于2020年1、2月；再经10月的市容综合整治与完善，更是焕然一新。作为首次现代城镇建设，<u>贵都</u>时代见证了太多革新：第一条公路、第一座立交桥、第一块路牌、第一个自动红绿灯……不夸张地说，<u>贵都</u>时代改变了<u>先拂</u>的修建理念。</p>
+<p><img src="https://i.loli.net/2021/05/19/Q3bomWDZ6U4MOIy.jpg" alt="img" title="noco u domovume Bulizevumo | 贵都街道夜景" loading="lazy">
+<img src="https://i.loli.net/2021/05/19/7wJCSgv61cdjR5b.jpg" alt="img" title="donbe kon u Zasesele | 齐心三桥" loading="lazy"></p>
+<p>Kulina Morinel: nabenle min gi u Nosiriba red.! radone ma u lubovume EBT[Ebete], jun vike hu Xef, flase ge no gic tami vu lubovume. zu Mesirave fu Nosiriba i samo puto jen ru kabale, mo bavgifejo ju tave kare, bija gob, ni fene ru gu.
+K'M'（<u>库里那・莫利内勒</u>）：我们在<u>执鲁</u>上班的就麻烦了！我单位在<u>铬黑T大厦</u>里，那是<u>先拂</u>最高的一栋大写字楼，里边装了不知多少家公司。然而从<u>怀圆</u>到<u>执鲁</u>骑马只有一条路可走，矿铁又非常绕远，虽然堵马也只能堵着了。</p>
+<p><img src="https://i.loli.net/2021/05/19/6sB4zOhIbFuZyMN.png" alt="img" title="zu Mesirave fu Nosiriba | 怀圆至执鲁" loading="lazy"></p>
+<p>J'S'(Jukomina Snagorano): sin!, min e foconihila ge fu 5:putihaca huz u focone Bumibise karu giv sor juk, mol ke e 5:haca meku zug f du, jo min vo gic fupiti radone ru bavgivina.
+J'S'（<u>尤科米那・斯那戈拉诺</u>）：是啊！我们看着<u>土画站</u>预留的5号线站台望眼欲穿，真希望5号线早点修到这，我们也能坐矿铁上班了。</p>
+<p>K'M': co no ti lase hu domove Nosiribakona:balon sumimuc,? fu radone e puto nudipit, Rikiniputo saj giku lubove, veru kanu kajge!.
+K'M'：您不都在<u>执鲁三条小区</u>租房了嘛，出门一过马路就到单位，楼下还有<u>蓖街</u>小吃街，简直不要太爽。</p>
+<p><img src="https://i.loli.net/2021/05/19/7Vp5yYCt8vKxs2f.jpg" alt="img" title="fofe Nosiriba | 执鲁北区" loading="lazy"></p>
+<p>J'S': saj benle, e sume cas ki ven fariglase kutob.
+J'S'：方便是方便了，那噪音可得适应一段时间。当时还是该租<u>覆江街小区</u>的，也就远一站地而已。</p>
+<p>nosike: e lubove dumone fan u domovume Nosiriba zug ru cilizile, jo i toce i kovizile fesi zul. di e zugi mogu mekiz.
+主持人：<u>执鲁街道</u>的四个住宅楼是模板化建设的，结构和外观均相似。这大大缩短了建设周期。</p>
+<p>J'S': kasu radi mi fin sumu kag u Kance:gricone, fe pit u Cr3+[Cerkojan]:miconume.
+J'S'：我下班后偶尔也会去<u>莰莗酒吧</u>喝一杯，或者逛<u>三价铬百货</u>。</p>
+<p><img src="https://i.loli.net/2021/05/19/hjLXfa3eEuBOmGK.jpg" alt="img" title="Kance:gricone | 莰莗酒吧" loading="lazy"></p>
+<p>nosike: u pojone a 2020:nuzo, e sece fofe a Morikoke:zeveco Nosiriba:domovume po zug, ja e sece popu Nosiriba:putumo u 2021:nuzo 1:jono poj.
+主持人：截至2020年底，<u>海西区</u> <u>执鲁街道</u>的北半边已经建成，而<u>执鲁大街</u>以南的部分则于2021年1月完成。</p>
+<p><img src="https://i.loli.net/2021/05/19/pNCiLF132hIqfol.jpg" alt="img" title="zu Lopikicegrwm:donbe | 从吏琴桥看去" loading="lazy"></p>
+<p>novo-hovike: tin ju vol miconume Lutebena co fe Cr3+?
+记者：各位更喜欢<u>亚羽商场</u>还是<u>三价铬百货</u>呢？</p>
+<p>V'P': mi kef ju gice miconume Lutebena. i debeca 12 bibu dive i 2 giku, e Lutebena:donbe bibu dive e Lutebena:focone giku dive ba fuc, ju ˙yvakh! e &quot;jehisluki i kerase u Lutebena&quot; u &quot;jehisora don a Xef&quot; po pec.
+V'P'：我看<u>亚羽商场</u>更强。地上十二层地下两层，把地上的<u>亚羽桥</u>和地下的<u>亚羽</u>矿铁站都包围在其中，多么气派！「亚羽樱香」已入选「先拂八景」了。</p>
+<p><img src="https://i.loli.net/2021/05/19/koeQ2V9xjMR1U6L.jpg" alt="img" title="jehisluki i kerase u Lutebena | 亚羽樱香" loading="lazy"></p>
+<p>K'M': ja Cr3+ ju jehe, su lepi moge haste, su zile novume. jesu ge sur u kaso, lubove loze e ˙jinqgvánq pas, mogu ju jehe ku pale visu lubove.
+K'M'：还是<u>三价铬百货</u>好，装饰丰富，造型时尚。尤其晚上看，整个楼体泛着荧光，比全是玻璃强不少。</p>
+<p><img src="https://i.loli.net/2021/05/19/ML95Nu7Vfs8SHxA.jpg" alt="img" title="Cr3+:miconume | 三价铬百货" loading="lazy"></p>
+<p>nosike: visi lin lubove gupe a vine. Lutebena:miconume boru lepe, Cr3+:miconume tenu lepe, e fite nakize mip.
+主持人：作为各自地区的地标性建筑，<u>亚羽商场</u>壮观，<u>三价铬百货</u>精美，各具特色。</p>
+<p>J'S': bu boru tenu lepe, ni ju jehe ku Latisure:lubo, su ba i tenilepoda i borilepoda a lubove Dcunqhva padiveka, ja e natoboda deviloda mip. mi e hafirese moge la po tos.
+J'S'：不过要论壮观和精美啊，那可没有能跟<u>瞰临亭</u>比的，兼<u>中</u>式传统建筑的精致和大气于一身，还多一分神秘感，我曾听过不少关于他的传说呢。</p>
+<p><img src="https://i.loli.net/2021/05/19/qwnHTzKQ3WvksYo.jpg" alt="img" title="Fipicile rore | 文律东口" loading="lazy"></p>
+<p>K'M': Lilivine:padizevica loze zi di, ke vi dive jun tege o kef i lopove. bife de lubo man zumic, ne plodica u Lilivine:padizevica gic fumici.
+K'M'：<u>近畿古镇</u>整体都是如此，那可是管理层最重视的一块地，我们就是把房卖了也买不起<u>近畿古镇</u>的小院。</p>
+<p><img src="https://i.loli.net/2021/05/19/zeEoMVB6mONqjtu.jpg" alt="img" title="bibikaho zi more | 瓦浪如海" loading="lazy">
+<img src="https://i.loli.net/2021/05/19/wZMOWjJCn1NvlEG.jpg" alt="img" title="u Junicile:puto | 精律街头" loading="lazy"></p>
+<p>V'P': gadu lubo cice man, ja lubo bore u domove Curitapto fe Gogideva no guc.
+V'P'：别提咱们这小房，就是<u>贵都街道</u> <u>确塔小区</u>、<u>石仙小区</u>的大房也难换一套<u>近畿</u>的房吧。</p>
+<p>nosike: bi Kubitirezova zase a Xef, jo Lilivine blane. u Morirore:zeveco Lilivine:domovume, i hure Lilivine:focone su putihaca fan, i koke radone a sasiblane, i rorifofe padizevica, i roripope gu e lubove vike vo zug. Lilivine:padizevica jena hu lubove a Xef, ja e sece tege la po zug hu 7:jono 20:lado samo. di natobe borume a zugi u Xef.
+主持人：如果说<u>起点草原</u>是<u>先拂</u>的心脏，<u>近畿</u>就是<u>先拂</u>的大脑。<u>海东区</u> <u>近畿街道</u>以四线交汇的<u>近畿站</u>为中心，西为中央办公区，东北为古镇，东南将来会建成高楼大厦。<u>近畿古镇</u>可谓<u>先拂</u>建筑之精华，而其主体于7月20日一天就拔地而起，是<u>先拂</u>一大工程奇迹。</p>
+<p><img src="https://i.loli.net/2021/05/19/YUlStcPL7WKqDkI.jpg" alt="img" title="hure a basone | 宇宙中心" loading="lazy">
+<img src="https://i.loli.net/2021/05/19/AbaGCs4Xemlj3yh.jpg" alt="img" title="koke Lilivine | 近畿西区" loading="lazy"></p>
+<p>novo-hovike: con tin lase u narado?
+记者：请问各位的假期一般怎么过？</p>
+<p>K'M': zusi Bibuvero:naradigusta. lup hu nitiflore nahome, e basone borume he gobu sat; e cele bib ja ve brodo bore pale hun flore ve curone fu vence ge lepiz zi dere Hristikusofi sur, e romanti sofa he tos. u kaso zu cabojidonbe gic suri Esjahonfen:domove nude, u noco u lubico zi fahe vel. jun gloke ki Bibuvero:naradigusta saj lile ku vine ˙sonvh a Morikoke:zeveco, veru &quot;e domo vins u linase, ja s nu glase a kihove&quot;.
+K'M'：当然是去<u>现实之上度假村</u>。站在一望无际的向日葵中间，深切感受宇宙之广阔；抬头看那花海中的大玻璃船和妆成圣诞树的结婚登记处，又让人体悟生命的浪漫。晚上还可以登上彩虹桥眺望对面的<u>鹅鸭鸿鳻城堡</u>，夜里在云朵小屋入睡。最绝的是，<u>现实之上度假村</u>紧挨着<u>海西区</u>的繁华区域，真可谓是「结庐在人境，而无车马喧」。</p>
+<p><img src="https://i.loli.net/2021/05/19/pYseMFxmD9EKHwB.jpg" alt="img" title="brodo bore so diva a flora | 大船花田" loading="lazy">
+<img src="https://i.loli.net/2021/05/19/c1KEraFtILByHCz.jpg" alt="img" title="bibu cabojidonbe | 彩虹之上" loading="lazy"></p>
+<p>nosike: Bibuvero:naradigusta zoge jehe a Arevcal, li vine gi e nature lil, dize u Xef. Esjahonfen:domove soci bu zile Evropa pade a Engunm.
+主持人：<u>现实之上度假村</u>是<u>阿留察</u>的杰作，是<u>先拂</u>少有的重生态、亲自然的区域。<u>鹅鸭鸿鳻城堡</u>则是<u>恩古欣金</u>对欧洲中世纪风格的尝试。</p>
+<p>V'P': mi e Dekimomlizalivo vol. e ribe ru hora e grica kag, u dulifoso lus, e fisoda nagahe sat. di vine saj lilu Lopikicegrwm:mekiputo, ja e &quot;obo&quot; mep, ju benle pitove da.
+V'P'：我喜欢<u>轻沙湾海滩</u>。在海边吃烤鱼、喝酒、泡温泉，享受简单的快乐。这地方紧邻<u>吏琴快速路</u>，还能坐obo共享船来往，交通很方便。</p>
+<p><img src="https://i.loli.net/2021/05/19/EOISCMfngjhN3mi.jpg" alt="img" title="Dekimomlizalivo | 轻沙湾" loading="lazy">
+<img src="https://i.loli.net/2021/05/19/WUb9xysupaofz5O.jpg" alt="img" loading="lazy"></p>
+<p>J'S': mi e OOO:fretone pic. vi fritone e zile natobe mip, vi u bibe e nito e nebo sic zu dive. bija dale, gic piti lamu ru 1:putihaca, vine jehe fu freti.
+J'S'：我选择OOO游乐场。这游乐场造型奇特，遮天蔽日；虽然远了点却能1号线直达，是个不错的游玩去处。</p>
+<p><img src="https://i.loli.net/2021/05/19/a4EVHtNhbcryf17.jpg" alt="img" title="OOO:fretone | OOO游乐场" loading="lazy"></p>
+<p>novo-hovike: linam ten zu novo-hovi,! cez fu kas.
+记者：感谢各位参与本次采访，我们下次再见。</p>
+<p>nosike: linam e novo-hovike. di &quot;fu hu Seon Phourl&quot; poj. u 2020:nuzo 8:jono Kinbvise e Majnkraft fu &quot;Win 10&quot; fumic; u 11:jono i Kinbvise i Engusinzim ba e fahiblanele sumifumic, mer e nabenle zu fili paka, e zugi mogu mekiz, ja benliz ke i line nove i gi sur hupit. linam zu suri, cez fu kas.!
+主持人：谢谢记者。本期《走进先拂》就到这里了。2020年8月，<u>臤徘斯</u>购买Win10正版；11月，<u>臤徘斯</u>和<u>恩古欣金</u>合资租赁云服务器，省去了手动传送本地存档的不便，大大提高了修建效率，也方便了参观者及新人加入。感谢收看，我们下期再见！</p>
+<blockquote>
+<p>在此还要致敬2020建造或发现的：<u>京舟</u>快速路、第四代和第五代闸机、光速船、文本转语音、蝙蝠蛋传送、动物园、四合院、<u>樱花</u>映射、<u>诺玛</u><u>建工</u>、<u>九龙公园</u>、<u>银山大街</u>、各种服务器插件、各种材质光影，以及其他没能写进对话里的东西。</p>
+</blockquote>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-04-21T22:38:36.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">人造语言词典管理软件：Lexique Pro</title>
+    <id>https://kinboise.github.io/fruje/han/cidianguanli/</id>
+    <link href="https://kinboise.github.io/fruje/han/cidianguanli/"/>
+    <updated>2022-07-05T14:39:57.441Z</updated>
+    <summary type="html">人造语言词典管理软件：Lexique Pro 人造语言当然要造词。很多人一开始会选择在本上写或是建个Excel表格，那么是否有更优雅的方法？这里分享一下我造帜和语的经验，希望对读者有用。 需求 选用工具之前，先明确一下使用场景（我的电脑为Windows 11、手机为安卓）：" 1. 多平台编辑：造新词时以电脑编辑为主；偶尔不在电脑边时，也以手机编辑为辅。"</summary>
+    <content type="html"><![CDATA[<h1 id="人造语言词典管理软件-lexique-pro"> 人造语言词典管理软件：Lexique Pro</h1>
+<p>人造语言当然要造词。很多人一开始会选择在本上写或是建个Excel表格，那么是否有更优雅的方法？这里分享一下我造<u>帜和语</u>的经验，希望对读者有用。</p>
+<h2 id="需求"> 需求</h2>
+<p>选用工具之前，先明确一下使用场景（我的电脑为Windows 11、手机为安卓）：</p>
+<blockquote>
+<ol>
+<li>多平台编辑：造新词时以<strong>电脑编辑</strong>为主；偶尔不在电脑边时，也以<strong>手机编辑</strong>为辅。</li>
+<li>多平台查看：<strong>电脑</strong>查看、<strong>手机</strong>查看、<strong>网页</strong>查看、<strong>纸质书</strong>查看，都需要<strong>比较美观</strong>。除了纸质书外，其他需要有<strong>搜索功能</strong>。</li>
+<li>内容同步：需保证各种词典的各种形式<strong>内容一致</strong>。</li>
+<li>字体支持：我的人造文字++五元文++需要<strong>字体</strong>和<strong>OpenType特性</strong>来正确显示。</li>
+</ol>
+</blockquote>
+<p>（<strong>Excel表格+同步网盘/在线文档</strong>其实挺不错，主要输在不够<strong>美观</strong>和<strong>字体支持</strong>稍差一点）</p>
+<p>总结以上需求，我希望在<strong>电脑</strong>端管理<strong>一份</strong>词典<strong>源文件</strong>，这个源文件在<strong>电脑和手机端均可编辑</strong>，且可以<strong>方便地转换</strong>成手机应用、网页、文档等<strong>各种格式</strong>以供查看。我使用的即是Lexique Pro。</p>
+<p><img src="https://s1.ax1x.com/2022/06/26/jAJwKU.png" alt="image-20220625215031408" loading="lazy"></p>
+<h2 id="功能介绍"> 功能介绍</h2>
+<p><a href="https://software.sil.org/lexiquepro/" target="_blank" rel="noopener noreferrer">Lexique Pro<i>Content not supported</i></a>是<a href="https://sil.org" target="_blank" rel="noopener noreferrer">SIL<i>Content not supported</i></a>开发的词典管理软件，他完全免费，自身的功能就很丰富：</p>
+<ul>
+<li>✔️界面直观，编辑所见即所得</li>
+<li>✔️支持搜索单词、搜索释义</li>
+<li>✔️支持插入图片、音频</li>
+<li>✔️字段丰富（拼写、发音、词性、释义、例句、词源等等）</li>
+<li>✔️各字段可独立设置格式（字体、字号、颜色）</li>
+<li>✔️支持自定义字母表顺序</li>
+<li>✔️支持单词分类</li>
+<li>✔️自带输出功能，可输出在线版（<code>html</code>+<code>css</code>+<code>js</code>）和可打印版（<code>.rtf</code>）</li>
+<li>✔️可输出LIFT格式，供Dictionary App Builder生成安卓应用</li>
+</ul>
+<p>还有一点非常重要：他的词典数据是以<strong>纯文本单文件</strong>存储的。虽然扩展名是<code>.db</code>，用记事本一打开就原形毕露。纯文本，意味着可以通过同步网盘（例：坚果云）直接在<strong>手机端编辑</strong>，且可以很方便地<strong>批量处理</strong>、与<strong>其他程序协作</strong>。</p>
+<p>当然，他也有一些缺点：</p>
+<ul>
+<li>❌已经停更多年，没有维护和支持</li>
+<li>❌界面为WinXP设计，很老旧</li>
+<li>❌编辑功能有点小bug</li>
+<li>❌OpenType特性支持不够</li>
+</ul>
+<p>综上所述，Lexique Pro作为编辑器和查看器中规中矩，作为转换器则很强大，一旦输出为网页、安卓应用、可打印文档，Lexique Pro界面的劣势也就不存在了。而且纯文本存储有很好的扩展性。</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">la&amp;apos;e os lonkoni</title>
+    <id>https://kinboise.github.io/fruje/han/laeoslonkoni/</id>
+    <link href="https://kinboise.github.io/fruje/han/laeoslonkoni/"/>
+    <updated>2022-07-05T14:39:57.453Z</updated>
+    <summary type="html">la'e os lonkoni la'e os lonkoni en'e la'e os os'xan polalipi lo os hanxan'ta in hikan'on ospelo helen'an is ki lenin pelo os os mta? muosci peki os os to la'e os xeli os lonkoni to</summary>
+    <content type="html"><![CDATA[<h1 id="la-e-os-lonkoni"> la'e os lonkoni</h1>
+<p>la'e os lonkoni
+en'e la'e os os'xan polalipi
+lo os hanxan'ta in hikan'on ospelo
+helen'an is ki lenin pelo os os mta?
+muosci
+peki os os to
+la'e os xeli os lonkoni to wa muos lenin ohon'pin</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">利孝王本紀</title>
+    <id>https://kinboise.github.io/fruje/han/lixiaowangbenji/</id>
+    <link href="https://kinboise.github.io/fruje/han/lixiaowangbenji/"/>
+    <updated>2022-07-05T14:39:57.454Z</updated>
+    <summary type="html"># 利孝王本紀
+孝王名德字央，文王長子也。
+惠王六年，文王崩，孝王立爲太子。
+</summary>
+    <content type="html"><![CDATA[<h1 id="利孝王本紀"> <u>利孝王</u>本紀</h1>
+<p><u>孝王</u>名<u>德</u>字<u>央</u>，<u>文王</u>長子也。</p>
+<p><u>惠王</u>六年，<u>文王</u>崩，<u>孝王</u>立爲太子。
+
+<u>惠王</u>十七年而崩，孝王即位。適<u>王子鉤</u>及<u>泛公</u>之亂，<u>孝王</u>以<u>杉公</u>並<u>王子奎</u>靖之。</p>
+<p>既而欲伐<u>泛公</u>。丞相<u>省標</u>諫曰：「不可。<u>泛公</u>入能撫其民，出能平戎狄；雖敗於王，其力未削。」元帥<u>衍欽</u>曰：「<u>泛公</u>不臣，私合諸侯、戎狄數犯我；不伐之，王不威。」從<u>欽</u>。<u>標</u>諫曰：「王之伐<u>泛公</u>，諸侯必不從。使王克之，王師將大傷；不克，是速禍也。」弗聽。</p>
+<p>遂使<u>衍欽</u>將中軍，<u>葡甚</u>將左軍，<u>乘梳</u>將右軍，以王師五萬伐<u>徊</u>。王令<u>杉公</u>、<u>陣公</u>共伐之。<u>杉公</u>稱疾不出，<u>陣公</u>使<u>乘漆</u>將戍師五千從王師。王不說，曰：「及<u>徊</u>下，且還討之。」</p>
+<p>王師軍於<u>崑嶺</u>。<u>泛公</u>使謂<u>欽</u>曰：「將軍之士辱來敝邑，敝邑無以遊賞，不若早歸京師。若後歸，深冬雨雪，君其難越<u>斐山</u>。」<u>欽</u>怒，扣留其使。</p>
+<p>王師與<u>汜梁</u>戰於<u>薄田</u>；頃之，<u>梁</u>還走，王師進而軍<u>薄田</u>。明日，再攻，<u>公子健</u>（<u>泛武</u>弟也）出戰，佯敗。<u>泛公</u>使<u>梁</u>、<u>健</u>伏於<u>薄田</u>之翼。越明日，<u>衍欽</u>、<u>乘梳</u>攻<u>徊</u>之東門，<u>葡甚</u>留守<u>薄田</u>，<u>泛公</u>不出。<u>公子健</u>暴出而攻王師之後，<u>泛公</u>亦出東門，夾擊王師；<u>汜梁</u>攻王師之營，獲葡甚。王師敗績，東走，<u>梁</u>、<u>健</u>逐之。至<u>斐</u>之陰，天雨雪，道不通，王師死者十之八。<u>衍欽</u>乃自殺。</p>
+<p>王大慚，語<u>王子瑛</u>（<u>惠王</u>子也）曰：「寡人不德，以一念使忠臣良士死於野，是辱叔父先王之靈也。寡人請禪於吾賢弟。」<u>瑛</u>驚，俯首而拜，辭曰：「先王有命，臣弟安敢受！今師窘於外，臣且往救之。」許之，與之師。又請假道於<u>杉</u>，<u>杉公</u>許之，且遣師會<u>瑛</u>之師。<u>瑛</u>與<u>汜梁</u>、<u>公子健</u>戰於<u>斐</u>陰，克之，獲<u>汜梁</u>而還。</p>
+<p><u>乘梳</u>囚服以朝王。王自罪己，命<u>乘梳</u>爲將軍，且封<u>王子瑛</u>於<u>玈</u>。<u>瑛</u>爲王卿，使其子<u>蓋</u>就國，是爲<u>玈侯蓋</u>，其後因<u>惠王</u>而爲<u>惠氏</u>。</p>
+<p>二年，王遣<u>王子瑛</u>與<u>泛公</u>盟於<u>音</u>，<u>杉公</u>成之也。</p>
+<p>九年，<u>結公</u>與<u>陣公</u>戰於
+<em>未完</em></p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-04-19T14:48:11.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">造语小作：Mígrug 缪缕语</title>
+    <id>https://kinboise.github.io/fruje/han/mjorvo/</id>
+    <link href="https://kinboise.github.io/fruje/han/mjorvo/"/>
+    <updated>2022-07-05T14:39:57.460Z</updated>
+    <summary type="html"># 缪缕语
+高中设定，高卢、北日耳曼味。主要是玩拼读规则的，附赠变格变位。
+</summary>
+    <content type="html"><![CDATA[<h1 id="缪缕语"> 缪缕语</h1>
+<p>高中设定，高卢、北日耳曼味。主要是玩拼读规则的，附赠变格变位。
+</p>
+<h2 id="一、音系"> 一、音系</h2>
+<h3 id="辅音"> 辅音</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>唇</th>
+<th>齿龈</th>
+<th>卷舌</th>
+<th>硬腭</th>
+<th>软腭</th>
+<th>声门</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>鼻音</td>
+<td>m</td>
+<td>n</td>
+<td>[ɳ]</td>
+<td></td>
+<td>ŋ</td>
+<td></td>
+</tr>
+<tr>
+<td>塞音</td>
+<td>p b</td>
+<td>t d</td>
+<td>[ʈ] [ɖ]</td>
+<td></td>
+<td>k ɡ</td>
+<td></td>
+</tr>
+<tr>
+<td>塞擦音</td>
+<td></td>
+<td>t͡s d͡z</td>
+<td>[ʈ͡ʂ] [ɖ͡ʐ]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>有咝擦音</td>
+<td></td>
+<td>s z</td>
+<td>[ʂ] [ʐ]</td>
+<td>ʃ ʒ</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>无咝/近音</td>
+<td>f v</td>
+<td>l</td>
+<td>[ɭ]</td>
+<td>[ç] j</td>
+<td>x (w)</td>
+<td></td>
+</tr>
+<tr>
+<td>颤音</td>
+<td></td>
+<td>r</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="元音"> 元音</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>前</th>
+<th>央</th>
+<th>后</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>闭</td>
+<td>i y</td>
+<td>ʉ</td>
+<td>u</td>
+</tr>
+<tr>
+<td>次闭</td>
+<td>ɪ</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>半闭</td>
+<td>e ø</td>
+<td>ə ɵ</td>
+<td>o</td>
+</tr>
+<tr>
+<td>半开</td>
+<td>ɛ œ</td>
+<td></td>
+<td>ɔ</td>
+</tr>
+<tr>
+<td>开</td>
+<td>a</td>
+<td></td>
+<td>ɑ</td>
+</tr>
+</tbody>
+</table>
+<p>所有元音均可鼻化。</p>
+<h3 id="声调"> 声调</h3>
+<p>重读音节区分高平调和高降调两个声调；非重读音节不区分声调。</p>
+<h2 id="二、正字法"> 二、正字法</h2>
+<p>缪缕语使用除q、w、x外的基本拉丁字母及đ，在元音字母上还使用重音符号（áéíóúý，不视作单独的字母）。有较为复杂的拼读规则。<em>（最近有换心领小字的想法，不过算了吧）</em></p>
+<h3 id="辅音字母"> 辅音字母</h3>
+<p>在拼读规则中辅音有「短」「长」之别。「短」包括单字母及一些字母组合，「长」</p>
+<table>
+<thead>
+<tr>
+<th>字母</th>
+<th>C-</th>
+<th>-C-</th>
+<th>-CC-</th>
+<th>-CC'-</th>
+<th>-C</th>
+<th>-CC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>b</td>
+<td>b</td>
+<td>b</td>
+<td>v</td>
+<td>v</td>
+<td>v</td>
+<td>-</td>
+</tr>
+<tr>
+<td>c</td>
+<td>ʃ</td>
+<td>ʃ</td>
+<td>ʃ</td>
+<td>ʃ</td>
+<td>ʃ</td>
+<td>ʃ</td>
+</tr>
+<tr>
+<td>ch</td>
+<td>x</td>
+<td>x</td>
+<td>-</td>
+<td>-</td>
+<td>x</td>
+<td>-</td>
+</tr>
+<tr>
+<td>d</td>
+<td>d</td>
+<td>d</td>
+<td>0</td>
+<td>0</td>
+<td>0,长</td>
+<td>-</td>
+</tr>
+<tr>
+<td>đ</td>
+<td>-</td>
+<td>0</td>
+<td>-</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>f</td>
+<td>f(ç)</td>
+<td>f(ç)</td>
+<td>f</td>
+<td>h</td>
+<td>h</td>
+<td>f</td>
+</tr>
+<tr>
+<td>g</td>
+<td>ɡ</td>
+<td>ɡ</td>
+<td>ɤ</td>
+<td>ɤ</td>
+<td>ɤ</td>
+<td>-</td>
+</tr>
+<tr>
+<td>gkh</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>x,长</td>
+<td>-</td>
+</tr>
+<tr>
+<td>h</td>
+<td>h(ç)</td>
+<td>h(ç)</td>
+<td>-</td>
+<td>-</td>
+<td>h</td>
+<td>-</td>
+</tr>
+<tr>
+<td>j</td>
+<td>j</td>
+<td>j</td>
+<td>j</td>
+<td>j</td>
+<td>j</td>
+<td>-</td>
+<td>k</td>
+<td>k</td>
+<td>k</td>
+<td>k</td>
+<td>k</td>
+<td>k</td>
+<td>k</td>
+</tr>
+<tr>
+<td>kg</td>
+<td>-</td>
+<td>x,长</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>l</td>
+<td>l</td>
+<td>l</td>
+<td>ɤ</td>
+<td>ɤ</td>
+<td>ɤ</td>
+<td>-</td>
+</tr>
+<tr>
+<td>m</td>
+<td>m</td>
+<td>m</td>
+<td>◌̃</td>
+<td>◌̃</td>
+<td>◌̃</td>
+<td>-</td>
+</tr>
+<tr>
+<td>mb</td>
+<td>-</td>
+<td>m,长</td>
+<td>-</td>
+<td>-</td>
+<td>m,长</td>
+<td>-</td>
+</tr>
+<tr>
+<td>n</td>
+<td>n</td>
+<td>n</td>
+<td>◌̃</td>
+<td>◌̃</td>
+<td>◌̃</td>
+<td>-</td>
+</tr>
+<tr>
+<td>nd</td>
+<td>-</td>
+<td>n,长</td>
+<td>-</td>
+<td>-</td>
+<td>n,长</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ng</td>
+<td>-</td>
+<td>ŋɡ,长</td>
+<td>-</td>
+<td>-</td>
+<td>ŋ,长</td>
+<td>-</td>
+</tr>
+<tr>
+<td>p</td>
+<td>p</td>
+<td>p</td>
+<td>p</td>
+<td>p</td>
+<td>p</td>
+<td>p</td>
+</tr>
+<tr>
+<td>r</td>
+<td>r</td>
+<td>r</td>
+<td>r</td>
+<td>r</td>
+<td>r</td>
+<td>-</td>
+</tr>
+<tr>
+<td>s</td>
+<td>s(ʃ)</td>
+<td>z(ʒ)</td>
+<td>s(ʃ)</td>
+<td>s</td>
+<td>s</td>
+<td>s</td>
+</tr>
+<tr>
+<td>sđ</td>
+<td>z(ʒ)</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>t</td>
+<td>t</td>
+<td>t</td>
+<td>t</td>
+<td>t</td>
+<td>t</td>
+<td>t</td>
+</tr>
+<tr>
+<td>v</td>
+<td>v</td>
+<td>v</td>
+<td>-</td>
+<td>v</td>
+<td>v</td>
+<td>-</td>
+</tr>
+<tr>
+<td>z</td>
+<td>t͡s</td>
+<td>d͡z</td>
+<td>t͡s</td>
+<td>-</td>
+<td>t͡s</td>
+<td>t͡s</td>
+</tr>
+</tbody>
+</table>
+<p>//ɤ//并非音值[ɤ]，而是与其前的元音字母组合发音。详见元音字母。</p>
+<h3 id="元音字母"> 元音字母</h3>
+<p>指aeiouy。</p>
+<h4 id="词重音"> 词重音</h4>
+<ol>
+<li>词中有重音符的，重音落在带重音符的音节上。</li>
+<li>无重音符，但以「长」辅音字母结尾的，重音落在末音节。</li>
+<li>以上都没有，重音落在倒数第二音节。</li>
+</ol>
+<h4 id="发音"> 发音</h4>
+<p>每个元音字母都有3种发音，分别为「长」「短」「-ɤ」。</p>
+<ol>
+<li>元音字母后为//ɤ//的，与//ɤ//组合发音，发音为「-ɤ」。</li>
+<li>重读音节之后的全为「短」。</li>
+<li>重读音节及之前的元音字母，后为「长」辅音则为「短」，否则为「长」。</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>a</th>
+<th>e</th>
+<th>i</th>
+<th>o</th>
+<th>u</th>
+<th>y</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>「短」</td>
+<td>a</td>
+<td>ɛ/ə</td>
+<td>ɪ</td>
+<td>ɔ</td>
+<td>ɵ</td>
+<td>œ</td>
+</tr>
+<tr>
+<td>「长」</td>
+<td>ɑ</td>
+<td>e</td>
+<td>i/əj</td>
+<td>u</td>
+<td>ʉ/əv</td>
+<td>y</td>
+</tr>
+<tr>
+<td>-ɤ</td>
+<td>ɑw</td>
+<td>ø</td>
+<td>jo</td>
+<td>o</td>
+<td>vo</td>
+<td>ɥø</td>
+</tr>
+</tbody>
+</table>
+<p>重读音节之后的「短」e为[ə]，否则为[ɛ]。
+若í、ú为词中最后一个元音字母，则发音为[əj]、[əv]。</p>
+<h2 id="声调-2"> 声调</h2>
+<p>重读音节为拼写为-l或-ll的「-ɤ」类，则为降调；否则为平调。非重读音节无声调。</p>
+<h2 id="例"> 例</h2>
+<ul>
+<li>Mígrug [mjór.vo]</li>
+<li>sđillug [ʒô.vo]</li>
+<li>vellúg [vø.ə́.vo]</li>
+<li>Glímmand [glɪ̃́.jan]</li>
+<li>konnem [kɔ̃́.ə̃]</li>
+<li>ros [rús]</li>
+<li>mydmam [mœ́.mã]</li>
+<li>níf [nə́jh]</li>
+<li>kukgim [kɵ́.xɪ̃]</li>
+</ul>
+<h2 id="例文"> 例文</h2>
+<p>Dissem rung lamt bern. Poknim nu biblotekim kul, sam zeđ bernis lyttis kukgim. Vallem lamt bern ord mydmam ú Franzam.</p>
+<p>[ˈdɪ.sə̃ rɵŋ lãt bɛ̃r̃ ǀ ˈpɔk.nɪ̃ nʉ ˌbɪv.luˈte.kɪ̃ kvo ǀ sɑ̃ ˈt͡se ˈbɛ.ɳɪs ˈlœ.tɪs ˈkɵ.xɪ̃ ǀ ˈvɑ̂w.ə̃ lãt bɛ̃r̃ ɔr ˈmœ.mã əv ˈfrã.d͡zɑ̃]</p>
+<p>喜欢.1sg 很 读.inf 书.sg.ACC。 到.1sg 在 图书馆.DAT 当， 只 3sgm.ACC 书.sgdef.ACC 旧.sgdef.ACC 找到.1sg。 想.1sg 读.inf 书.sg.ACC 关于 女人.sg.DAT ……的 法国.sg.GEN。</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-04-25T22:27:46.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">方块字如何电子化？给特正文做字体</title>
+    <id>https://kinboise.github.io/fruje/han/tezhengwenziti/</id>
+    <link href="https://kinboise.github.io/fruje/han/tezhengwenziti/"/>
+    <updated>2022-07-05T14:39:57.461Z</updated>
+    <summary type="html">方块字如何电子化？给特正文做字体 特正文是帜和语的三种官方文字中优先级最高的一种。然而，他是一种方块字，电子化困难，一直依赖手写，使用很受限。近期我终于牺牲了一些优雅性，把特正文字体搞出来了。下面讲讲流程。 第一步：确定Unicode编码推荐方案 一个编码对应一个特正字，随机顺序，维护一个码表文件就行了 特正文是一种方块表音文字，造字逻辑有点类似谚文。然而</summary>
+    <content type="html"><![CDATA[<h1 id="方块字如何电子化-给特正文做字体"> 方块字如何电子化？给<u>特正文</u>做字体</h1>
+<p><u>特正文</u>是<u>帜和语</u>的三种官方文字中优先级最高的一种。然而，他是一种方块字，电子化困难，一直依赖手写，使用很受限。近期我终于牺牲了一些优雅性，把<u>特正文</u>字体搞出来了。下面讲讲流程。</p>
+<h2 id="第一步-确定unicode编码"> 第一步：确定Unicode编码</h2>
+<div><p>推荐方案</p>
+<p>一个编码对应一个<u>特正</u>字，随机顺序，维护一个码表文件就行了</p>
+</div>
+<p><u>特正文</u>是一种方块表音文字，造字逻辑有点类似<u>谚文</u>。然而，不像<u>谚文</u>字的总数量有限，<u>特正字</u>理论上是无限多的（无限堆词缀、很长的复辅音等等）。</p>
+<h2 id="第二步-制作字形"> 第二步：制作字形</h2>
+<div><p>推荐方案</p>
+<p>用平板笔记软件批量手写</p>
+</div>
+<p>既选择了整字编码，制作字形应该算是最难的一步。如果想做的质量高一些，应该使用电脑上的矢量图编辑软件（如Inkscape、Adobe Illustrator等），然而这个对我来说难度有点高，且工作量太大。</p>
+<p>于是我退而求其次。先制作一个8×16的田格纸作背景，使用平板电脑上的笔记软件（享做笔记）手写。写完一批（128个字）就导出为pdf即可。</p>
+<h2 id="第三步-切割字形"> 第三步：切割字形</h2>
+<p>上一步我已经导出了一个写有128个字的pdf。那么，在电脑上用Inkscape去掉田格背景，把字形导入FontForge就可以了。</p>
+<p>然而这样工作量还是太大——128个字在同一个文件里，难道我要一个字一个字地复制粘贴进FontForge吗？那必不行，一共一千多字呢。</p>
+<p>于是我想到先自动切割然后批量导入。但是我没找到能自动切割矢量图（<code>.svg</code>或<code>.pdf</code>）的程序，而FontForge只收矢量图。</p>
+<p>没办法，我选择了这个很不优雅的办法：先把整张矢量图<code>.svg</code>转为整张位图<code>.png</code>，切割位图，切得的位图重新矢量化成<code>.svg</code>。</p>
+<ol>
+<li><code>.svg</code>转<code>.png</code>：直接用Inkscape导出就行</li>
+<li>切割位图：我自己写了个Python脚本来自动切割，并重命名</li>
+<li><code>.png</code>转<code>.svg</code>：我找到了vectorizer.com来完成这一步。他的缺点是一次性只能转20张图，不过也算勉强够用了。</li>
+</ol>
+<h2 id="第四步-导入字形"> 第四步：导入字形</h2>
+<p>有了前面的准备，这步就不难了。FontForge支持Python，写个Python脚本就能把刚生产出的一系列字形svg自动导入了。我暂时没研究出来用脚本改字形边界和宽度，好在这俩操作在FontForge的界面里也不难完成。</p>
+<h2 id="第五步-调整字重"> 第五步：调整字重</h2>
+<p>前面的步骤埋了个雷：字太细。于是用FontForge的Elements &gt; Styles菜单中的Change Weight来批量自动加粗。</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">造语草稿：巳章黎沮摩</title>
+    <id>https://kinboise.github.io/fruje/han/swdcjenq/</id>
+    <link href="https://kinboise.github.io/fruje/han/swdcjenq/"/>
+    <updated>2022-07-05T14:39:57.464Z</updated>
+    <summary type="html">名称未定。单音节语素。历史音变，声调产生。随机生成器造词。语法没想法。
+sɦɨʔ kjaŋ rjɨj sha māj&amp;gt;3sɨʔ 1tɕəŋ 1zəj 2tsʰə 2maj
+</summary>
+    <content type="html"><![CDATA[<p>名称未定。单音节语素。历史音变，声调产生。随机生成器造词。语法没想法。</p>
+<p>sɦɨʔ kjaŋ rjɨj sha māj&gt;3sɨʔ 1tɕəŋ 1zəj 2tsʰə 2maj
+</p>
+<h2 id="一、古音系"> 一、古音系</h2>
+<h3 id="声母"> 声母</h3>
+<table>
+<thead>
+<tr>
+<th>∅</th>
+<th>唇</th>
+<th>齿</th>
+<th>腭</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>鼻音</td>
+<td>m</td>
+<td>n</td>
+<td>ŋ</td>
+</tr>
+<tr>
+<td>塞音</td>
+<td>p</td>
+<td>t</td>
+<td>k</td>
+</tr>
+<tr>
+<td>擦音</td>
+<td></td>
+<td>s</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="喉状态"> 喉状态</h3>
+<table>
+<thead>
+<tr>
+<th>通常</th>
+<th>喉塞</th>
+<th>送气</th>
+<th>浊气</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>∅</td>
+<td>ʔ</td>
+<td>h</td>
+<td>ɦ</td>
+</tr>
+</tbody>
+</table>
+<h3 id="流介音"> 流介音</h3>
+<table>
+<thead>
+<tr>
+<th>无</th>
+<th>边音</th>
+<th>卷舌</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>∅</td>
+<td>l</td>
+<td>r[ɻ]</td>
+</tr>
+</tbody>
+</table>
+<h3 id="半元音介音"> 半元音介音</h3>
+<table>
+<thead>
+<tr>
+<th>无</th>
+<th>闭前</th>
+<th>闭后</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>∅</td>
+<td>j</td>
+<td>w</td>
+</tr>
+</tbody>
+</table>
+<h3 id="主元音"> 主元音</h3>
+<table>
+<thead>
+<tr>
+<th>闭</th>
+<th>开短</th>
+<th>开长</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ɨ</td>
+<td>a</td>
+<td>ā</td>
+</tr>
+</tbody>
+</table>
+<h3 id="韵尾"> 韵尾</h3>
+<table>
+<thead>
+<tr>
+<th>半元音</th>
+<th>∅</th>
+<th>j</th>
+<th>w</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>鼻音</td>
+<td>m</td>
+<td>n</td>
+<td>ŋ</td>
+<td></td>
+</tr>
+<tr>
+<td>塞音</td>
+<td>p</td>
+<td>t</td>
+<td>k</td>
+<td>ʔ</td>
+</tr>
+</tbody>
+</table>
+<h2 id="二、今音系"> 二、今音系</h2>
+<h3 id="声母-2"> 声母</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>唇</th>
+<th>齿龈</th>
+<th>边音</th>
+<th>卷舌</th>
+<th>龈腭</th>
+<th>软腭</th>
+<th>声门</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>鼻音</td>
+<td>m</td>
+<td>n</td>
+<td></td>
+<td>ɳ</td>
+<td></td>
+<td>ŋ</td>
+<td></td>
+</tr>
+<tr>
+<td>塞音</td>
+<td>p pʰ</td>
+<td>t tʰ</td>
+<td></td>
+<td></td>
+<td></td>
+<td>k kʰ</td>
+<td>ʔ</td>
+</tr>
+<tr>
+<td>塞擦音</td>
+<td></td>
+<td>t͡s t͡sʰ</td>
+<td>t͡ɬ t͡ɬʰ</td>
+<td>ʈ͡ʂ ʈ͡ʂʰ</td>
+<td>t͡ɕ t͡ɕʰ</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>擦/近音</td>
+<td>f w</td>
+<td>s z</td>
+<td>ɬ l</td>
+<td>ʂ ɻ</td>
+<td>ɕ j</td>
+<td></td>
+<td>h</td>
+</tr>
+</tbody>
+</table>
+<h3 id="介音"> 介音</h3>
+<table>
+<thead>
+<tr>
+<th>无</th>
+<th>闭前</th>
+<th>闭后</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>∅</td>
+<td>j</td>
+<td>w</td>
+</tr>
+</tbody>
+</table>
+<h3 id="主元音-2"> 主元音</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>前</th>
+<th>央</th>
+<th>后</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>闭</td>
+<td>i (jɨ?)</td>
+<td>ɨ</td>
+<td>u (wɨ?)</td>
+</tr>
+<tr>
+<td>中</td>
+<td></td>
+<td>ə</td>
+<td></td>
+</tr>
+<tr>
+<td>开</td>
+<td></td>
+<td>a</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="韵尾-2"> 韵尾</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>ɛ</th>
+<th>ɔ</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>半元音</td>
+<td>∅</td>
+<td>j</td>
+<td>w</td>
+<td></td>
+</tr>
+<tr>
+<td>鼻音</td>
+<td>m</td>
+<td>n</td>
+<td>ŋ</td>
+<td></td>
+</tr>
+<tr>
+<td>塞音</td>
+<td>p</td>
+<td>t</td>
+<td>k</td>
+<td>ʔ</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-04-22T22:34:49.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">利惠王本紀</title>
+    <id>https://kinboise.github.io/fruje/han/lihuiwangbenji/</id>
+    <link href="https://kinboise.github.io/fruje/han/lihuiwangbenji/"/>
+    <updated>2022-07-05T14:39:57.465Z</updated>
+    <summary type="html"># 利惠王本纪
+惠王名刈字青，武王次子、文王弟也。
+武王諸子皆少從征。以文王年長，使將右軍；餘子咸置於行伍，謂曰：「汝，卒也，不可以公子居。」王從右軍，公子鉤從中軍，公子奎、公子巒從左軍。
+</summary>
+    <content type="html"><![CDATA[<h1 id="利惠王本纪"> <u>利惠王</u>本纪</h1>
+<p><u>惠王</u>名<u>刈</u>字<u>青</u>，<u>武王</u>次子、<u>文王</u>弟也。</p>
+<p><u>武王</u>諸子皆少從征。以<u>文王</u>年長，使將右軍；餘子咸置於行伍，謂曰：「汝，卒也，不可以公子居。」王從右軍，<u>公子鉤</u>從中軍，<u>公子奎</u>、<u>公子巒</u>從左軍。
+
+諸公子入伍不期月，<u>巒</u>以公子傲於衆。<u>武王</u>怒，笞<u>巒</u>，使之司炊。</p>
+<p>衆卒始知諸公子在軍中，俱度爲誰，得<u>鉤</u>、<u>奎</u>，獨不得<u>惠王</u>。越年半，<u>武王</u>使<u>鉤</u>、<u>奎</u>爲副將。王患之，謂軍吏<u>乘諒</u>曰：「我亦公子也。」軍吏哂之，曰：「戰以懮，退以喜，怯也；汝而爲公子，吾其爲公子哉！」王對曰：「戰者勞民傷財，刈是以懮。古人云：『不戰而屈人之兵』，尚也。」<u>武王</u>聞之不說，而<u>文王</u>奇之。</p>
+<p><u>文王</u>二年，<u>泛</u><u>公子武</u>反，與<u>杉公</u><u>景衡</u>、<u>陣公</u><u>田干</u>圍<u>中京</u>，號曰『王<u>利</u>不王<u>新</u>』。<u>惠王</u>謂<u>文王</u>：「<u>泛公</u>之號『王<u>利</u>不王<u>新</u>』。請更姓<u>利</u>氏。」<u>文王</u>既從之，與<u>泛武</u>約。<u>泛武</u>以<u>文王</u>爲懼己，因曰：「將士涉遠道，請暫休於王地，期月而還。」已期月，師不退。<u>文王</u>患之，與衆臣謀。<u>惠王</u>曰：「敢請禪於我，必退其師。」衆臣怒責<u>惠王</u>之大逆不道。<u>文王</u>度之，竟曰：「善，寡人將禪也。」即起立，躬迎<u>惠王</u>於座。衆臣嘩然，<u>文王</u>曰：「新王與寡人皆先王之子也，衆卿請相之如相寡人然。」</p>
+<p>春，王即位。時泛武軍<u>柳泉</u>，<u>杉公</u>軍<u>帳坡</u>，<u>陣公</u>軍<u>東簾</u>。元帥<u>乘諒</u>請出擊<u>泛武</u>、<u>杉公</u>、<u>陣公</u>。<u>惠王</u>曰：「將自退。京中餘糧豐實，君且固守而待之。」越五日，<u>杉公</u>果還；明日<u>陣公</u>亦還。</p>
+<p><u>泛武</u>雖不欲退，其部卒皆不與之，曰：「今王誠姓<u>利</u>，何不歸乎？」其將<u>極甑</u>諫曰：「公請量力。<u>杉公</u>、<u>陣公</u>既還，獨以公之師，安能克王師乎？」遂退。王令<u>乘諒</u>將三軍以逐<u>泛武</u>，大敗之。衆臣遂服。</p>
+<p>既克，<u>泛公臺</u>來朝。王使<u>王子鉤</u>戍<u>徊</u>、<u>王子奎</u>戍<u>音</u>、<u>王子巒</u>戍<u>興</u>。<u>文王</u>私語王：「<u>巒</u>性懦，不卒戍；及君崩，<u>鉤</u>將反。寡兄請代之！」王曰：「兄爲上王，豈可出戍？請復君位，弟且自出戍。」文王曰：「國之方定，不可廢也，君宜爲王。」因以<u>文王</u>之子<u>德</u>爲太子；以<u>乘諒</u>佐<u>鉤</u>、<u>寰駿</u>佐<u>奎</u>、<u>賓告</u>佐<u>巒</u>。三年，<u>巒</u>請返國，以<u>乘漆</u>（<u>乘諒</u>之弟也）代之。</p>
+<p>王之在位也，每事必問於<u>文王</u>，不敢稍有不敬。六年，<u>文王</u>崩。</p>
+<p>十五年正月，<u>武</u>爲<u>泛公</u>，來朝。<u>鉤</u>欲從之，王不許。<u>泛公</u>還，陰言於<u>鉤</u>：「噫！君與王，俱<u>文王</u>弟也；今彼爲王，君曾不能返國。」對曰：「何言哉！王命可廢乎？」七月，<u>乘諒</u>卒，又言。<u>鉤</u>曰：「無之。」十六年，王有疾，又言。鉤曰：「君之躁甚矣。」<u>泛公</u>喜，知其將反。</p>
+<p>十七年二月，王病笃。<u>鉤</u>將兵圍京師，假視王病，欲弒王；<u>泛公</u>軍於百里外。王不納。四月，王崩，<u>太子德</u>、<u>王子絳</u>隱之，以<u>惠王</u>之命<u>杉公</u>及<u>王子奎</u>靖亂。<u>杉公昌</u>與王之元帥<u>衍欽</u>共擊<u>鉤</u>，獲之；<u>王子奎</u>擊<u>泛公</u>，<u>泛公</u>退。七月，殺<u>王子鉤</u>。九月，葬<u>惠王</u>。</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-04-19T14:45:54.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">造语草稿：Тояң</title>
+    <id>https://kinboise.github.io/fruje/han/tojanq/</id>
+    <link href="https://kinboise.github.io/fruje/han/tojanq/"/>
+    <updated>2022-07-05T14:39:57.466Z</updated>
+    <summary type="html"># Тояң语
+來點突厥——噫，咋黏上就下不來了？
+
+</summary>
+    <content type="html"><![CDATA[<h1 id="тояң语"> Тояң语</h1>
+<p>來點<u>突厥</u>——噫，咋黏上就下不來了？</p>
+<p><img src="https://s1.ax1x.com/2022/07/03/jGkYVS.png" alt="img" loading="lazy"></p>
+
+<div><pre><code>i u a
+m n ŋ
+p t t&#39; k k&#39;
+b d d&#39; g g&#39;
+s s&#39; j w
+
+ki,gi&gt;ci,ɟi
+b,d,d&#39;,g,g&#39;&gt;p,t,t&#39;,k,k&#39;/#_, C_
+b,d,d&#39;,g,g&#39;&gt;v,l,l&#39;,-,-/V_
+si&gt;ʃi
+
+i y ɯ u
+e ø o
+æ ɑ
+m n ɲ ŋ
+p t c[~ tʃ] k~q (ʔ)
+b d ɟ[~ dʒ] g~ɣ
+(f) s ɬ ʃ x~χ
+z 
+l ɾ j w
+
+и ү ы у
+е ө о
+ә а
+м н нь ң
+п т ч к қ
+б д ж г ғ
+ф с ԯ ш х
+з
+л р й в
+
+bagud&gt;paul&gt;pol&gt;pøl пөл
+tas&gt;tæs&gt;dæːs&gt;deɾ дер
+tasi&gt;tæʃi&gt;dæxi&gt;ɟæx жәх
+kus&#39;&gt;kyːs&gt;gyɾ гүр
+kus&#39;i&gt;kysi&gt;gyʃ гүш
+d&#39;ag&#39;iŋ&gt;t&#39;aiŋ&gt;tɑjŋ&gt;tɔjŋ&gt;tojɑŋ тояң
+s&#39;adi&gt;s&#39;ali&gt;sɑɬ саԯ
+kiwa&gt;cia&gt;sije сие
+tupuk&#39;&gt;typyk&gt;ɟybyk жүбүк
+tupuk&#39;a&gt;tupk&#39;a&gt;typkɑ&gt;dypke&gt;ɟypke жүпке
+jagip&gt;jeɟip&gt;jezip езип
+jad&#39;k&#39;u&gt;jet&#39;k&#39;u&gt;jetku&gt;(j)etek етек
+wapak&gt;wopak&gt;(w)obɑq обақ
+wapaki&gt;wapki&gt;wopci&gt;wops&gt;(w)opos опос
+d&#39;an&gt;t&#39;an&gt;tɑːn&gt;tɔŋ тоң
+kusiti&gt;kusti&gt;kysti&gt;gysøt гүсөт
+t&#39;umiŋ&gt;tumiŋ&gt;tumɯŋ тумың
+pas&#39;at&gt;pɑsɑt&gt;pɑɾɑt парат
+pas&#39;ati&gt;pas&#39;ti&gt;pɑsɑt пасат
+pas&#39;att&#39;uŋ&gt;pɑsɑttuŋ&gt;pɑɾɑtuŋ&gt;pɑɾtuŋ партуң
+naga&gt;naa&gt;næː&gt;ne не
+
+не парат пәр
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br></div></div>]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-05-01T17:01:43.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">造语草稿：土垓语</title>
+    <id>https://kinboise.github.io/fruje/han/toaj/</id>
+    <link href="https://kinboise.github.io/fruje/han/toaj/"/>
+    <updated>2022-07-05T14:39:57.471Z</updated>
+    <summary type="html">土垓语 土垓语:首页 /&lt;![CDATA[/var NS='土垓语';var JSINFO = {"plugins":{"edittable":{"default columnwidth":""}},"moverenameokay":false,"id":"\u571f\u5793\u8bed:\u9996\u9875","namespace":"\u571</summary>
+    <content type="html"><![CDATA[<h1 id="土垓语"> 土垓语</h1>
+<html lang="zh" dir="ltr">
+<head>
+  <i>Content not supported</i>
+  <title>土垓语:首页</title>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+<i>Content not supported</i>
+
+<script >/*<![CDATA[*/var NS='土垓语';var JSINFO = {"plugins":{"edittable":{"default columnwidth":""}},"move_renameokay":false,"id":"\u571f\u5793\u8bed:\u9996\u9875","namespace":"\u571f\u5793\u8bed","ACT":"export_xhtml","useHeadingNavigation":1,"useHeadingContent":1};
+/*!]]]]]]><![CDATA[><![CDATA[>*/</script>
+<script charset="utf-8" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" defer="defer"></script>
+<script charset="utf-8" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" defer="defer"></script>
+<script charset="utf-8" src="../lib/exe/js.php.t.dokuwiki.js" defer="defer"></script>
+
+</head>
+<body>
+<p><a href="https://www.guc1010.top/rantiviki/doku.php/%E5%9C%9F%E5%9E%93%E8%AF%AD;%E9%A6%96%E9%A1%B5" target="_blank" rel="noopener noreferrer">去Alparant查看原文<i>Content not supported</i></a></p>
+<div>
+
+<div id="dw__toc">
+<h3>目录</h3>
+<div>
+<ul>
+<li><div></div>
+<ul>
+<li><div></div>
+<ul>
+<li><div></div></li>
+<li><div></div></li>
+<li><div></div></li>
+<li><div></div></li>
+<li><div></div></li>
+</ul>
+</li>
+<li><div></div></li>
+<li><div></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div>
+<p>
+<em>心领</em>国<em>土垓</em>族的语言。
+</p>
+</div>
+
+<h2 id="音系">音系</h2>
+<div>
+</div>
+
+<h3 id="辅音">辅音</h3>
+<div>
+<div><table>
+	<thead>
+	<tr>
+		<th>  辅音    </th><th>  双唇                                                           </th><th>  舌尖                                                                 </th><th>  舌叶                                                                     </th><th>  软腭                                                           </th><th>  小舌                                                                   </th><th>  声门             </th>
+	</tr>
+	</thead>
+	<tr>
+		<th>  鼻音    </th><td>  <strong>/mʼ/</strong>  <em>m’</em> <i>Content not supported</i>
+<strong>/m/</strong>  <em>m</em>                          </td><td>  <strong>/nʼ/</strong>  <em>n’</em> <i>Content not supported</i>
+<strong>/n/</strong>  <em>n</em>                                </td><td>  <strong>/n̻ʼ/</strong>  <em>ņ’</em> <i>Content not supported</i>
+<strong>/n̻/</strong>  <em>ņ</em>                                </td><td>  <strong>/ŋʼ/</strong>  <em>ŋ’</em> <i>Content not supported</i>
+<strong>/ŋ/</strong>  <em>ŋ</em>                          </td><td>                                                                         </td><td>                   </td>
+	</tr>
+	<tr>
+		<th>  塞音    </th><td>  <strong>/pʼ/</strong>  <em>p’</em> <i>Content not supported</i>
+<strong>/p/</strong> , <em>p</em> <i>Content not supported</i>
+<strong>/pʰ/</strong>  <em>ph</em>  </td><td>  <strong>/tʼ/</strong>  <em>t’</em> <i>Content not supported</i>
+<strong>/t/</strong> , <em>t</em> <i>Content not supported</i>
+<strong>/tʰ/</strong>  <em>th</em>        </td><td>  <strong>/t̻ʼ/</strong>  <em>ţ’</em> <i>Content not supported</i>
+<strong>/t̻/</strong> , <em>ţ</em> <i>Content not supported</i>
+<strong>/t̻ʰ/</strong>  <em>ţh</em>     </td><td>  <strong>/kʼ/</strong>  <em>k’</em> <i>Content not supported</i>
+<strong>/k/</strong> , <em>k</em> <i>Content not supported</i>
+<strong>/kʰ/</strong>  <em>kh</em>  </td><td>  <strong>/qʼ/</strong>  <em>q’</em> <i>Content not supported</i>
+<strong>/q/</strong> , <em>q</em> <i>Content not supported</i>
+<strong>/qʰ/</strong>  <em>qh</em>  </td><td>  <strong>/ʔ/</strong>  <em>’</em>  </td>
+	</tr>
+	<tr>
+		<th>  塞擦音  </th><td>                                                                 </td><td>  <strong>/t͡sʼ/</strong>  <em>c’</em> <i>Content not supported</i>
+<strong>/t͡s/</strong> , <em>c</em> <i>Content not supported</i>
+<strong>/t͡sʰ/</strong>  <em>ch</em>  </td><td>  <strong>/t͡ʃʼ/</strong>  <em>ç’</em> <i>Content not supported</i>
+<strong>/t͡ʃ/</strong> , <em>ç</em> <i>Content not supported</i>
+<strong>/t͡ʃʰ/</strong>  <em>çh</em>  </td><td>                                                                 </td><td>                                                                         </td><td>                   </td>
+	</tr>
+	<tr>
+		<th>  擦音    </th><td>  <strong>/ɸ/</strong>  <em>f</em>                                               </td><td>  <strong>/s/</strong>  <em>s</em>                                                      </td><td>  <strong>/ʃ/</strong>  <em>ş</em>                                                         </td><td>  <strong>/x/</strong>  <em>x</em>                                                </td><td>  <strong>/ħ/</strong>  <em>ħ</em>                                                      </td><td>                   </td>
+	</tr>
+	<tr>
+		<th>  近音    </th><td>                                                                 </td><td>  <strong>/ɹ/</strong>  <em>z</em>                                                      </td><td>  <strong>/ɹ̻/</strong>  <em>z̧</em>                                                       </td><td>                                                                 </td><td>  <strong>/ʕ/</strong>  <em>ġ</em>                                                        </td><td>                   </td>
+	</tr>
+	<tr>
+		<th>  颤音    </th><td>                                                                 </td><td>  <strong>/r/</strong>  <em>r</em>                                                     </td><td>                                                                           </td><td>                                                                 </td><td>                                                                         </td><td>                   </td>
+	</tr>
+	<tr>
+		<th>  边音    </th><td>                                                                 </td><td>  <strong>/l/</strong>  <em>l</em>                                                      </td><td>                                                                           </td><td>                                                                 </td><td>                                                                         </td><td>                   </td>
+	</tr>
+</table></div>
+
+<p>
+/l/只出现在借词中。/r/少见。
+</p>
+<p>
+简单塞音、塞擦音在两个完整元音之间或鼻音韵尾之后时音值为浊音，其余音值为清音。
+</p>
+<p>
+简单塞音、塞擦音的第二种写法（来自心领浊音）用于元音（不一定完整元音）之间，其余用第一种写法（来自心领清音）。清、浊字母的选用与实际音值不尽相符。
+</p>
+<div><table>
+	<tr>
+		<th>  半元音  </th><td>  <strong>/j/</strong> , <em>j</em>  </td><td>  <strong>/ɰ/</strong>  <em>ẏ</em>  </td><td>  <strong>/w/</strong>  <em>w</em>  </td>
+	</tr>
+	<tr>
+		<th>  唇化辅音  </th><td>  <strong>/kʷʼ/</strong>  <em>kw’</em>  </td><td>  <strong>/kʷ/</strong>  <em>kw</em>  </td><td>  <strong>/kʷʰ/</strong>  <em>kwh</em>  </td>
+	</tr>
+</table></div>
+
+<p>
+/j/作复元音的一部分时用，其余用。
+</p>
+<p>
+晚近借词使用的字母如下：
+</p>
+<div><table>
+	<tr>
+		<td>  <strong>[b]</strong>  <em>b</em>  </td><td>  <strong>[d]</strong>  <em>d</em>  </td><td>  <strong>[d͡z]</strong>  <em>ʒ</em>  </td><td>  <strong>[ɡ]</strong>  <em>g</em>  </td><td>  <strong>[ɰ]</strong>  <em>ṙ</em>  </td>
+	</tr>
+</table></div>
+
+</div>
+
+<h3 id="元音">元音</h3>
+<div>
+<div><table>
+	<thead>
+	<tr>
+		<th>  元音  </th><th>  前  </th><th>  后不圆唇  </th><th>  后圆唇  </th>
+	</tr>
+	</thead>
+	<tr>
+		<th>  极短  </th><td>  <strong>/ĭ/</strong>  <em>ĭ</em>  </td><td>  <strong>/ɨ̆/</strong> ∅ <em>ă</em>  </td><td>  <strong>/ŭ/</strong>  <em>ŭ</em>  </td>
+	</tr>
+	<tr>
+		<th>  闭  </th><td>  <strong>/i/</strong>  <em>i</em>  </td><td>  <strong>/ɯ/</strong>  <em>y</em>  </td><td>  <strong>/u/</strong>  <em>u</em>  </td>
+	</tr>
+	<tr>
+		<th>  中  </th><td>  <strong>/e/</strong>  <em>e</em>  </td><td>  <strong>/ɤ/</strong>  <em>ə</em>  </td><td>  <strong>/o/</strong>  <em>o</em>  </td>
+	</tr>
+	<tr>
+		<th>  开  </th><td> </td><td>  <strong>/a/</strong>  <em>a</em>  </td><td> </td>
+	</tr>
+</table></div>
+
+<p>
+极短元音在邻近音节有完整元音时清化，甚至退化。如 <em>’okwiţíţĭ</em> 实际发音为[ʔoɡʷiȡíȶ]， <em>cʼăfă</em> 实际发音为[t͡sʼə̆ɸ]， <em>ç’oçŭ</em> 实际发音为[t͡ʃʼot͡ʃʷ]。
+</p>
+</div>
+
+<h3 id="音节结构">音节结构</h3>
+<div>
+<p>
+音节结构CV(C)或CVV(C)。不允许复辅音。
+</p>
+</div>
+<h4 id="韵尾">韵尾</h4>
+<div>
+<p>
+韵尾只能为/m, n, ŋ, p, t, k, s, j, w/之一。
+</p>
+<ul>
+<li><div> 韵尾/m, n, ŋ/使其前的元音鼻化。</div>
+</li>
+<li><div> 韵尾/p, t, k/为无声除阻。</div>
+</li>
+</ul>
+<p>
+由于极短元音退化，实际音值中有很多复辅音音值及其他辅音音值结尾的情况。辅音后/ɨ̆/有无的对立在向该辅音及前一音节音值的对立转变（<em>啊这撞上<em>法</em>语了吗不是故意的</em>）。如：
+</p>
+<ul>
+<li><div>  <em>nyp</em> [nɯp̚] :  <em>nypă</em> [nɯp~nɯpə̥̆]</div>
+</li>
+<li><div>  <em>qémpu</em> [qẽ́mbu] :  <em>témăpu</em> [témpu~témbu]（此例中拼写的清浊和音值的清浊恰好颠倒）</div>
+</li>
+</ul>
+</div>
+
+<h3 id="音调">音调</h3>
+<div>
+<p>
+从正字法上看，极短音节无声调区别，普通音节可以为低调（无）、高调（），长音节可以为平调（无）、升调（）、降调（）。
+</p>
+<p>
+对于本土词及早期借词，此声调系统底层为音拍重音。极短元音为0个音拍，普通元音为1个音拍，长元音为2个音拍。词重音落在某一音拍上（拉丁转写用「´」标识）。以<em>a</em>举例：
+</p>
+<ul>
+<li><div>  <em>a</em> 低调</div>
+</li>
+<li><div>  <em>á</em> 高调</div>
+</li>
+<li><div>  <em>aa</em> 平调</div>
+</li>
+<li><div>  <em>aá</em> 升调</div>
+</li>
+<li><div>  <em>áa</em> 降调</div>
+</li>
+</ul>
+</div>
+
+<h3 id="转写">转写</h3>
+<div>
+<p>
+本文通篇使用反映音位的学术<em>拉丁</em>转写。而日常也会使用基于正字法、少用或不用特殊字符的其他转写方案。这样的方案标准化程度低，以下仅举例说明：
+</p>
+<div><table>
+	<thead>
+	<tr>
+		<th>  <em>心领小字</em>  </th><th>  学术<em>拉丁</em>  </th><th>  其他<em>拉丁</em>  </th>
+	</tr>
+	</thead>
+	<tr>
+		<td>    </td><td>  <em>săpo</em>  </td><td>  <em>sbo</em>  </td>
+	</tr>
+	<tr>
+		<td>    </td><td>  <em>chə́ġe</em>  </td><td>  <em>cheghe, tsegheh</em>  </td>
+	</tr>
+	<tr>
+		<td>    </td><td>  <em>z̧inŭţĭ</em>  </td><td>  <em>zhinwdj, rinud&#039;, rint&#039;</em>  </td>
+	</tr>
+</table></div>
+
+</div>
+
+<h2 id="语法">语法</h2>
+<div>
+<div><table>
+	<thead>
+	<tr>
+		<th rowspan="2">  附着人称  </th><th colspan="2">  我  </th><th rowspan="2">  你  </th><th rowspan="2">  此  </th><th rowspan="2">  他  </th><th rowspan="2">  彼  </th><th rowspan="2">  另  </th>
+	</tr>
+	<tr>
+		<th>  容  </th><th>  斥  </th>
+	</tr>
+	</thead>
+	<tr>
+		<th>  单数  </th><td colspan="2">  <em>-w</em>  </td><td>  <em>-ŋ</em>  </td><td>  <em>-ħə́</em>  </td><td>  <em>+thy</em>  </td><td>  <em>+pu</em>  </td><td rowspan="3">  <em>+ţĭ</em>  </td>
+	</tr>
+	<tr>
+		<th>  双数  </th><td>  <em>+wá</em>  </td><td rowspan="2">  <em>-tkhă</em>  </td><td>  <em>ŋe</em>  </td><td>  <em>-ħá</em>  </td><td>  <em>+thá</em>  </td><td>  <em>+po</em>  </td>
+	</tr>
+	<tr>
+		<th>  复数  </th><td>  <em>-wkhă</em>  </td><td>  <em>-ŋkhă</em>  </td><td>  <em>-ħə́k</em>  </td><td>  <em>+kha</em>  </td><td>  <em>-pkhă</em>  </td>
+	</tr>
+</table></div>
+
+<p>
+动词的变元依次添加。
+</p>
+<ul>
+<li><div>  <em>’ut</em> 吃……</div>
+</li>
+<li><div>  <strong></strong> <em>’ut <strong>qémpu</strong></em> ……吃<strong>肉</strong></div>
+</li>
+<li><div>  <strong></strong> <em>’ut qémpo<strong>w</strong></em> <strong>我</strong>吃肉</div>
+</li>
+<li><div>  <strong></strong> <em>’ut qémpo<strong>ħə</strong></em> <strong>这</strong>吃肉</div>
+</li>
+<li><div>   <em>jékwĭ</em> 狗</div>
+</li>
+<li><div>  <strong></strong> <strong></strong> <em>’ut qémpo<strong>ħə jékwim</strong></em> <strong>这狗</strong>吃肉</div>
+</li>
+</ul>
+<ul>
+<li><div>  <em>xŭţĭcă</em> ……喜欢</div>
+</li>
+<li><div>  <em>xŭţĭcu</em> 我喜欢……（<em>-ă + -w &gt; u</em>）</div>
+</li>
+<li><div>  <em>xŭţĭcuŋ</em> 我喜欢你</div>
+</li>
+<li><div>   <em>xŭţĭcu jékwĭ</em> 我喜欢狗</div>
+</li>
+<li><div>  <em>xŭţĭcoħə́</em> 我喜欢这（<em>-u + ħə́ &gt; -oħə́</em>）</div>
+</li>
+<li><div>   <em>xŭţĭcoħə́ jékwim</em> 我喜欢这，这=狗（<em>jékwĭ + -m &gt; jékwim</em>）</div>
+</li>
+<li><div>   <em>xŭţĭcăħə́ jékwim</em> 这狗喜欢……</div>
+</li>
+<li><div>   <em>xŭţĭcăħə́ jékwimmŭ</em> 这狗喜欢我（<em>-m + -w &gt; -mmŭ</em>读作<em>-mmă</em>）</div>
+</li>
+</ul>
+</div>
+
+<h2 id="例文">例文</h2>
+<div>
+<p>
+        
+<em>ġameq&#039;án ŋătý p&#039;ĭsu luu k&#039;ic&#039;ăŋ ţ&#039;ĭxĭ, ŋ&#039;upşĭ khípĭ fă&#039;eq&#039;ă.</em>
+</p>
+</div>
+</div>
+</body>
+</html>]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-05-01T17:01:43.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">先拂矿铁</title>
+    <id>https://kinboise.github.io/fruje/han/xianfukuangtie/</id>
+    <link href="https://kinboise.github.io/fruje/han/xianfukuangtie/"/>
+    <updated>2022-07-05T14:39:57.474Z</updated>
+    <summary type="html">先拂是Kinboise始建于2014年7月的《我的世界》基岩版（当时的PE）存档。目前，先拂已成为一个城市建设服务器，有丰富的交通网以及各种自动化系统。
+</summary>
+    <content type="html"><![CDATA[<p><u>先拂</u>是Kinboise始建于2014年7月的《我的世界》基岩版（当时的PE）存档。目前，<u>先拂</u>已成为一个城市建设服务器，有丰富的交通网以及各种自动化系统。
+</p>
+<h1 id="前五年的辉煌"> 前五年的辉煌</h1>
+<p>前五年的<u>先拂</u>是纯铁路存档，除铁路之外再无他物。铁路直接裸露铺在地上，无任何围挡；「车站」仅由停车装置和站牌构成，连站台也没有。虽然简陋如此，但五年来一共修了14条线路（1~14号线），250余座车站，基本覆盖了半径1500范围的广阔区域。</p>
+<p>总结起来，前五年留下的遗产主要有三：两百余个有历史的地名、广阔的已探索区域、一张铁路规划图。时过境迁，当年的简陋铁路不再能满足新时代的要求了。目前，这些旧线在逐步拆除并按新标准重建。新线的线位、设站都是以旧线为基础，只是稍加微调。</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-04-03T12:09:35.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">未定义标题</title>
+    <id>https://kinboise.github.io/fruje/snv/</id>
+    <link href="https://kinboise.github.io/fruje/snv/"/>
+    <updated>2022-07-05T14:39:57.475Z</updated>
+    <summary type="html">ni du</summary>
+    <content type="html"><![CDATA[<p>ni du</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">unifik计划</title>
+    <id>https://kinboise.github.io/fruje/han/unifik-jihua/</id>
+    <link href="https://kinboise.github.io/fruje/han/unifik-jihua/"/>
+    <updated>2022-07-05T14:39:57.477Z</updated>
+    <summary type="html">本项目将Kinboise较为优秀的人造文字编码至Unicode私人使用区（PUA）。
+</summary>
+    <content type="html"><![CDATA[<p>本项目将Kinboise较为优秀的人造文字编码至Unicode私人使用区（PUA）。</p>
+
+<p>之前的方式一直是用人造文字覆盖已编码的自然文字（一般是拉丁字母）。重新编码可以增强系统性、方便管理，也可以更加便利地与其他文字混排。</p>
+<p>项目名称「unifik」来自Unicode + nifik（立：新），若无更佳想法将作为正式字体名称。</p>
+<h2 id="确定码位"> 确定码位</h2>
+<ul>
+<li>回萨什奇字母</li>
+<li>阿图计沙字母</li>
+<li>联合国文</li>
+<li>jelikmawrjo</li>
+<li>心领大字</li>
+<li><strong>心领小字</strong></li>
+<li><s>廉滂字母</s></li>
+<li>萨农文</li>
+<li>费利字母</li>
+<li><strong>五元文</strong></li>
+<li>子伍文</li>
+<li><strong>蒙格利拉文</strong></li>
+</ul>
+<p>加粗的文种定位为普适文字，其余为区域性。</p>
+<p>特正文的技术问题尚未解决，单独立项，从SPUA开始编码。</p>
+<h2 id="制作字体"> 制作字体</h2>
+<p>既有字体均为微软画图 + FontCreator制作：字符为位图转矢量图，质量不高；且使用了破解软件。本次重点优化新确定的三种普适文字的显示效果，用Inkscape + FontForge予以重制或新制；对于其他文字则进行简单码位迁移，节约工作量。</p>
+<p>直接迁移既有字体至新码位：</p>
+<ul>
+<li>回萨什奇字母</li>
+<li>阿图计沙字母</li>
+<li>联合国文</li>
+<li>jelikmawrjo</li>
+<li>心领大字</li>
+<li>费利字母</li>
+</ul>
+<p>重新制作：</p>
+<ul>
+<li>心领小字</li>
+<li>五元文</li>
+</ul>
+<p>新制作：</p>
+<ul>
+<li>子伍文</li>
+<li>蒙格利拉文</li>
+</ul>
+<p>心领小字、五元文、子伍文均为横排非连体字母，难度低；而蒙格利拉文为竖排连体字母，需要使用很多Opentype特性，为本项目的主要难点所在。</p>
+<h2 id="制作输入法"> 制作输入法</h2>
+<p>拟使用Keyman制作输入法。联合国文可以考虑使用Keyman或多多输入法平台。</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-05-22T20:20:20.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">fofibura su nito</title>
+    <id>https://kinboise.github.io/fruje/snv/fofibura-su-nito/</id>
+    <link href="https://kinboise.github.io/fruje/snv/fofibura-su-nito/"/>
+    <updated>2022-07-05T14:39:57.478Z</updated>
+    <summary type="html">北風與太陽（出自伊索寓言）
+</summary>
+    <content type="html"><![CDATA[<p>北風與太陽（出自伊索寓言）
+</p>
+<p>fofibura su nito fet ci ju gice, bi line u tepe rupe rupit. lin cur ke ju gice gi he vi line e tepe sa natap. fofibura s visu gico bur, mo ju bur, vi line se ju cadu fic u tepe, jun kasu fofibura e soci foc. ja nito rupu pos, meku vi line e tepe sa natap. jo fofibura cas curi ke nito ju gice k lu.</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-06-05T12:42:47.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">jane so kable (hafirese a Xlajher)</title>
+    <id>https://kinboise.github.io/fruje/snv/jane-so-kable-hafirese-a-xlajher/</id>
+    <link href="https://kinboise.github.io/fruje/snv/jane-so-kable-hafirese-a-xlajher/"/>
+    <updated>2022-07-05T14:39:57.478Z</updated>
+    <summary type="html">羊和馬（施萊赫的寓言）
+</summary>
+    <content type="html"><![CDATA[<p>羊和馬（施萊赫的寓言）
+
+u vene i jane s nu lute en kable sur, i jen e kiha taze his, i jen e fice bore nas, fene e line meku nas.</p>
+<p>haf li jane vun kable: &quot;zase ma pege bi mi sur ke line en kable hes.&quot;</p>
+<p>haf vin kable: &quot;cit! ti jane, zase man pege bi min sur ke line lope zu lute a jane f su e tepe rupe zug, jo jane ne lute mep.&quot;</p>
+<p>de po cit, li jane se dal fu diva.</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-06-05T12:38:17.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">hafirese a Bavél</title>
+    <id>https://kinboise.github.io/fruje/snv/hafirese-a-bavel/</id>
+    <link href="https://kinboise.github.io/fruje/snv/hafirese-a-bavel/"/>
+    <updated>2022-07-05T14:39:57.478Z</updated>
+    <summary type="html">巴別塔的故事（出自聖經舊約）
+</summary>
+    <content type="html"><![CDATA[<p>巴別塔的故事（出自聖經舊約）
+
+but vu sume visu zeme samo i hafa jen, e hefe kize hef.</p>
+<p>bi rar, u Xinqar e nitife lik, ja ve dom.</p>
+<p>fat i linen ku bate: &quot;sip! e kaho o hor o pojiz.&quot; goge e kaho kubit, jola e zidinire.</p>
+<p>fat: &quot;sip! f mun zug e zevo e lubove ga bibe ku nebo, f mun e pleme zug, jo no men sec visu zemen.&quot;</p>
+<p>gik i Jahve suri ve zevo so lubove ge zog i line.</p>
+<p>haf i Jahve: &quot;o sur, visi linove jen, hafa visa jen, di ge kubit zugi, sadu ni foc e ge lin voj.</p>
+<p>sip! he min gik, e hafa lan vu nasel, jo linen ne hefe a bate tos.&quot;</p>
+<p>z vu i Jahve len sec visu zemen, lin foc zugi ve zevo.</p>
+<p>jo pleme va zevo o Bavél, zo vu i Jahve e hafan visa zemen nasel, z vu sec i Jahve len visu zemen.</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-06-05T12:43:37.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+  <entry>
+    <title type="html">su marxalo Tito</title>
+    <id>https://kinboise.github.io/fruje/snv/su-marxalo-tito/</id>
+    <link href="https://kinboise.github.io/fruje/snv/su-marxalo-tito/"/>
+    <updated>2022-07-05T14:39:57.481Z</updated>
+    <summary type="html">s umarxalo·tito su marxalo Tito 跟着元帅铁托 --- junako leho junako leho 英雄儿子 --- meN no vo foc itofeto men no vo foc i tofeto 地狱阻止不了我们 --- miN bib emaN celo min bib e man celo 我们抬起我们的头 </summary>
+    <content type="html"><![CDATA[<p><br><br>
+<span class=s>s umarxalo·tito</span>
+su marxalo Tito</p>
+<p>跟着元帅<u>铁托</u></p>
+<hr>
+<p><br><br>
+<span class=s>junako leho</span>
+junako leho</p>
+<p>英雄儿子</p>
+<hr>
+<p><br><br>
+<span class=s>meN no vo foc itofeto</span>
+men no vo foc i tofeto</p>
+<p>地狱阻止不了我们</p>
+<hr>
+<p><br><br>
+<span class=s>miN bib emaN celo</span>
+min bib e man celo</p>
+<p>我们抬起我们的头</p>
+<hr>
+<p><br><br>
+<span class=s>uvope piNsu hod</span>
+u vope pinsu hod</p>
+<p>向前勇敢走</p>
+<hr>
+<p><br><br>
+<span class=s>goNku curu epeste dot</span>
+gonku curu e peste dot</p>
+<p>坚定用力地把拳握紧</p>
+<hr>
+<p><br><br>
+<span class=s>miN linove pade</span>
+min linove pade</p>
+<p>我们是古老的人民</p>
+<hr>
+<p><br><br>
+<span class=s>no mip ·gut jakove</span>
+no mip Gut jakove</p>
+<p>没有<u>哥特</u>祖宗</p>
+<hr>
+<p><br><br>
+<span class=s>miN sece a·sloveniline</span>
+min sece a Sloveniline</p>
+<p>我们是<u>斯拉夫</u>人的一部分</p>
+<hr>
+<p><br><br>
+<span class=s>gi efene hefe</span>
+gi e fene hefe</p>
+<p>那些把其他的话</p>
+<hr>
+<p><br><br>
+<span class=s>ofaru dufihef</span>
+o faru dufihef</p>
+<p>恶意撒谎说着的人</p>
+<hr>
+<p><br><br>
+<span class=s>liN vo sat eNmaN peste</span>
+lin vo sat en man peste</p>
+<p>他们将感受到我们的拳头</p>
+<hr>
+<p><br><br>
+<span class=s>vinize aruke</span>
+vinize a ruke</p>
+<p>手上的手指</p>
+<hr>
+<p><br><br>
+<span class=s>r ugahoda r ugikumi</span>
+ru gahoda ru gikumi</p>
+<p>度过困难与压迫</p>
+<hr>
+<p><br><br>
+<span class=s>zug eduhe a·partizan</span>
+zug e duhe a Partizan</p>
+<p>创造了游击队之魂</p>
+<hr>
+<p><br><br>
+<span class=s>jo sadu vo bi ces</span>
+jo sadu vo bi ces</p>
+<p>那么现在如果需要</p>
+<hr>
+<p><br><br>
+<span class=s>k unito k unebe</span>
+ku nito ku nebe</p>
+<p>对太阳对天空</p>
+<hr>
+<p><br><br>
+<span class=s>miN epeste sa viku vag</span>
+min e peste sa viku vag</p>
+<p>我们会将拳高高举起</p>
+]]></content>
+    <author>
+      <name>Kinboise</name>
+    </author>
+    <contributor>
+      <name>Kinboise</name>
+    </contributor>
+    <published>2021-04-26T21:31:29.000Z</published>
+    <rights>Copyright by Kinboise</rights>
+  </entry>
+</feed>
